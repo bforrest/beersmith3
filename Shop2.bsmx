@@ -1,0 +1,1493 @@
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2011-02-14</_MOD_>
+<Name>Shop</Name>
+<Type>7448</Type>
+<Dirty>1</Dirty>
+<Owndata>1</Owndata>
+<TID>7448</TID>
+<Size>0</Size>
+<_XName>Shop</_XName>
+<Allocinc>16</Allocinc>
+<Data></Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+<TxLog>1</TxLog>
+<PermCount>463</PermCount>
+<TxCount>0</TxCount>
+<TxTable>10331</TxTable>
+<TxPath>/Users/Barry/Library/Application Support/BeerSmith3/Shop.bsmx</TxPath>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>464</PermId>
+<ID>1</ID>
+<Object>12223</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Nigel Curtis</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Nigel Curtis</F_SH_SHORT_NAME>
+<F_SH_NAME>Nigel Curtis</F_SH_NAME>
+<F_SH_AMOUNT>8.2767361</F_SH_AMOUNT>
+<F_SH_UNITS>gal</F_SH_UNITS>
+<F_SH_PRICE_UNITS>gal</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND></F_SH_SECOND>
+<F_SH_TYPE>9</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>465</PermId>
+<ID>2</ID>
+<Object>12226</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Salt</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Salt</F_SH_SHORT_NAME>
+<F_SH_NAME>Salt (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>1.2084294</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>466</PermId>
+<ID>3</ID>
+<Object>12229</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Epsom Salt (MgSO4)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Epsom Salt (MgSO4)</F_SH_SHORT_NAME>
+<F_SH_NAME>Epsom Salt (MgSO4) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>1.1096478</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>467</PermId>
+<ID>4</ID>
+<Object>12232</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Baking Soda</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Baking Soda</F_SH_SHORT_NAME>
+<F_SH_NAME>Baking Soda (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>1.0004661</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>468</PermId>
+<ID>5</ID>
+<Object>12235</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Gypsum (Calcium Sulfate)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Gypsum (Calcium Sulfate)</F_SH_SHORT_NAME>
+<F_SH_NAME>Gypsum (Calcium Sulfate) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>0.6624357</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>469</PermId>
+<ID>6</ID>
+<Object>12238</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Planet (Muntons)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Planet (Muntons)</F_SH_SHORT_NAME>
+<F_SH_NAME>Planet (Muntons) (3.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>9.0924956</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>24.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>470</PermId>
+<ID>7</ID>
+<Object>12241</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Caramel/Crystal Malt - 40L (Muntons)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Caramel/Crystal Malt - 40L (Muntons)</F_SH_SHORT_NAME>
+<F_SH_NAME>Caramel/Crystal Malt - 40L (Muntons) (40.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.9832394</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.7900000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>471</PermId>
+<ID>8</ID>
+<Object>12244</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Biscuit (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Biscuit (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Biscuit (Dingemans) (22.5 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.2867781</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>472</PermId>
+<ID>9</ID>
+<Object>12247</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Chocolate Malt (Muntons)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Chocolate Malt (Muntons)</F_SH_SHORT_NAME>
+<F_SH_NAME>Chocolate Malt (Muntons) (425.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.0409683</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.0500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>473</PermId>
+<ID>10</ID>
+<Object>12250</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Corn Sugar (Dextrose)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Corn Sugar (Dextrose)</F_SH_SHORT_NAME>
+<F_SH_NAME>Corn Sugar (Dextrose) [Boil] (0.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.6081894</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2800000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>5</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>474</PermId>
+<ID>11</ID>
+<Object>12253</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Bramling Cross</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Bramling Cross</F_SH_SHORT_NAME>
+<F_SH_NAME>Bramling Cross [5.60 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>0.6160361</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>475</PermId>
+<ID>12</ID>
+<Object>12256</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Challenger</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Challenger</F_SH_SHORT_NAME>
+<F_SH_NAME>Challenger [5.10 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>0.6160361</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>465</PermId>
+<ID>13</ID>
+<Object>12259</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Salt</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Salt</F_SH_SHORT_NAME>
+<F_SH_NAME>Salt (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>3.0694992</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>466</PermId>
+<ID>14</ID>
+<Object>12262</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Epsom Salt (MgSO4)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Epsom Salt (MgSO4)</F_SH_SHORT_NAME>
+<F_SH_NAME>Epsom Salt (MgSO4) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>2.8185867</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>467</PermId>
+<ID>15</ID>
+<Object>12265</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Baking Soda</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Baking Soda</F_SH_SHORT_NAME>
+<F_SH_NAME>Baking Soda (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>2.5412572</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>468</PermId>
+<ID>16</ID>
+<Object>12268</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Gypsum (Calcium Sulfate)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Gypsum (Calcium Sulfate)</F_SH_SHORT_NAME>
+<F_SH_NAME>Gypsum (Calcium Sulfate) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>1.6826352</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>474</PermId>
+<ID>17</ID>
+<Object>12271</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Bramling Cross</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Bramling Cross</F_SH_SHORT_NAME>
+<F_SH_NAME>Bramling Cross [5.60 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>1.0780631</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>475</PermId>
+<ID>18</ID>
+<Object>12274</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Challenger</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Challenger</F_SH_SHORT_NAME>
+<F_SH_NAME>Challenger [5.10 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>1.0780631</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>476</PermId>
+<ID>19</ID>
+<Object>12277</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Boadicea</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Boadicea</F_SH_SHORT_NAME>
+<F_SH_NAME>Boadicea [5.10 %] - Boil 15.0 min</F_SH_NAME>
+<F_SH_AMOUNT>0.4620270</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>476</PermId>
+<ID>20</ID>
+<Object>12280</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Boadicea</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Boadicea</F_SH_SHORT_NAME>
+<F_SH_NAME>Boadicea [5.10 %] - Boil 15.0 min</F_SH_NAME>
+<F_SH_AMOUNT>1.0731381</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>477</PermId>
+<ID>21</ID>
+<Object>12283</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>British Ale VIII</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>British Ale VIII</F_SH_SHORT_NAME>
+<F_SH_NAME>British Ale VIII (Omega #OYL-016)</F_SH_NAME>
+<F_SH_AMOUNT>0.6111111</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>7.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>OYL-016</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>464</PermId>
+<ID>22</ID>
+<Object>12354</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Nigel Curtis</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Nigel Curtis</F_SH_SHORT_NAME>
+<F_SH_NAME>Nigel Curtis</F_SH_NAME>
+<F_SH_AMOUNT>22.9261111</F_SH_AMOUNT>
+<F_SH_UNITS>gal</F_SH_UNITS>
+<F_SH_PRICE_UNITS>gal</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND></F_SH_SECOND>
+<F_SH_TYPE>9</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>478</PermId>
+<ID>23</ID>
+<Object>12357</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Chalk</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Chalk</F_SH_SHORT_NAME>
+<F_SH_NAME>Chalk (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>1.7868095</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>468</PermId>
+<ID>24</ID>
+<Object>12360</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Gypsum (Calcium Sulfate)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Gypsum (Calcium Sulfate)</F_SH_SHORT_NAME>
+<F_SH_NAME>Gypsum (Calcium Sulfate) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>3.0412182</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>466</PermId>
+<ID>25</ID>
+<Object>12363</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Epsom Salt (MgSO4)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Epsom Salt (MgSO4)</F_SH_SHORT_NAME>
+<F_SH_NAME>Epsom Salt (MgSO4) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>3.8128914</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>479</PermId>
+<ID>26</ID>
+<Object>12366</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Calcium Chloride</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Calcium Chloride</F_SH_SHORT_NAME>
+<F_SH_NAME>Calcium Chloride (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>0.9519439</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>469</PermId>
+<ID>27</ID>
+<Object>12369</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Planet (Muntons)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Planet (Muntons)</F_SH_SHORT_NAME>
+<F_SH_NAME>Planet (Muntons) (3.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>21.2174956</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>24.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>480</PermId>
+<ID>28</ID>
+<Object>12372</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>IREKS Vienna Malt</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>IREKS Vienna Malt</F_SH_SHORT_NAME>
+<F_SH_NAME>IREKS Vienna Malt (4.6 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>1.8750000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>3.1800000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>481</PermId>
+<ID>29</ID>
+<Object>12375</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Special Roast (Briess)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Special Roast (Briess)</F_SH_SHORT_NAME>
+<F_SH_NAME>Special Roast (Briess) (50.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>1.1250000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>482</PermId>
+<ID>30</ID>
+<Object>12378</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Biscuit Malt</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Biscuit Malt</F_SH_SHORT_NAME>
+<F_SH_NAME>Biscuit Malt (23.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.7500000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2800000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgian</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>483</PermId>
+<ID>31</ID>
+<Object>12381</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Carabrown</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Carabrown</F_SH_SHORT_NAME>
+<F_SH_NAME>Carabrown (55.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.7500000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>24.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United States</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>484</PermId>
+<ID>32</ID>
+<Object>12384</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Caramel/Crystal Malt - 60L (Muntons)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Caramel/Crystal Malt - 60L (Muntons)</F_SH_SHORT_NAME>
+<F_SH_NAME>Caramel/Crystal Malt - 60L (Muntons) (60.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.7900000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>485</PermId>
+<ID>33</ID>
+<Object>12387</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Pale Chocolate</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Pale Chocolate</F_SH_SHORT_NAME>
+<F_SH_NAME>Pale Chocolate (200.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.3750000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>24.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>UK</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>475</PermId>
+<ID>34</ID>
+<Object>12390</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Challenger</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Challenger</F_SH_SHORT_NAME>
+<F_SH_NAME>Challenger [5.10 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>2.5780631</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>486</PermId>
+<ID>35</ID>
+<Object>12393</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Fuggles</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Fuggles</F_SH_SHORT_NAME>
+<F_SH_NAME>Fuggles [5.00 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>0.7500000</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>478</PermId>
+<ID>36</ID>
+<Object>12396</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Chalk</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Chalk</F_SH_SHORT_NAME>
+<F_SH_NAME>Chalk (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>4.4423148</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>468</PermId>
+<ID>37</ID>
+<Object>12399</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Gypsum (Calcium Sulfate)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Gypsum (Calcium Sulfate)</F_SH_SHORT_NAME>
+<F_SH_NAME>Gypsum (Calcium Sulfate) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>5.0603055</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>466</PermId>
+<ID>38</ID>
+<Object>12402</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Epsom Salt (MgSO4)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Epsom Salt (MgSO4)</F_SH_SHORT_NAME>
+<F_SH_NAME>Epsom Salt (MgSO4) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>5.2905986</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>479</PermId>
+<ID>39</ID>
+<Object>12405</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Calcium Chloride</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Calcium Chloride</F_SH_SHORT_NAME>
+<F_SH_NAME>Calcium Chloride (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>2.3666957</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>487</PermId>
+<ID>40</ID>
+<Object>12408</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Whirlfloc Tablet</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Whirlfloc Tablet</F_SH_SHORT_NAME>
+<F_SH_NAME>Whirlfloc Tablet (Boil 15.0 mins)</F_SH_NAME>
+<F_SH_AMOUNT>1.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>Items</F_SH_UNITS>
+<F_SH_PRICE_UNITS>Items</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Fining</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>488</PermId>
+<ID>41</ID>
+<Object>12411</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Yeast Nutrient</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Yeast Nutrient</F_SH_SHORT_NAME>
+<F_SH_NAME>Yeast Nutrient (Boil 15.0 mins)</F_SH_NAME>
+<F_SH_AMOUNT>1.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>tsp</F_SH_UNITS>
+<F_SH_PRICE_UNITS>tsp</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Other</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>474</PermId>
+<ID>42</ID>
+<Object>12414</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Bramling Cross</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Bramling Cross</F_SH_SHORT_NAME>
+<F_SH_NAME>Bramling Cross [5.60 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>3.0780631</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>477</PermId>
+<ID>43</ID>
+<Object>12417</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>British Ale VIII</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>British Ale VIII</F_SH_SHORT_NAME>
+<F_SH_NAME>British Ale VIII (Omega #OYL-016)</F_SH_NAME>
+<F_SH_AMOUNT>3.6111111</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>7.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>OYL-016</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>489</PermId>
+<ID>44</ID>
+<Object>12490</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Nigel</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Nigel</F_SH_SHORT_NAME>
+<F_SH_NAME>Nigel</F_SH_NAME>
+<F_SH_AMOUNT>8.0178542</F_SH_AMOUNT>
+<F_SH_UNITS>gal</F_SH_UNITS>
+<F_SH_PRICE_UNITS>gal</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND></F_SH_SECOND>
+<F_SH_TYPE>9</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>465</PermId>
+<ID>45</ID>
+<Object>12493</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Salt</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Salt</F_SH_SHORT_NAME>
+<F_SH_NAME>Salt (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>4.1531018</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>466</PermId>
+<ID>46</ID>
+<Object>12496</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Epsom Salt (MgSO4)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Epsom Salt (MgSO4)</F_SH_SHORT_NAME>
+<F_SH_NAME>Epsom Salt (MgSO4) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>6.2856235</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>467</PermId>
+<ID>47</ID>
+<Object>12499</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Baking Soda</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Baking Soda</F_SH_SHORT_NAME>
+<F_SH_NAME>Baking Soda (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>3.4383785</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>468</PermId>
+<ID>48</ID>
+<Object>12502</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Gypsum (Calcium Sulfate)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Gypsum (Calcium Sulfate)</F_SH_SHORT_NAME>
+<F_SH_NAME>Gypsum (Calcium Sulfate) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>5.6543138</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>490</PermId>
+<ID>49</ID>
+<Object>12505</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Maris Otter (Crisp)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Maris Otter (Crisp)</F_SH_SHORT_NAME>
+<F_SH_NAME>Maris Otter (Crisp) (4.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>4.2817296</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>491</PermId>
+<ID>50</ID>
+<Object>12508</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Munich Malt, Germany (Avangard)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Munich Malt, Germany (Avangard)</F_SH_SHORT_NAME>
+<F_SH_NAME>Munich Malt, Germany (Avangard) (9.5 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>1.6048307</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.7900000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>492</PermId>
+<ID>51</ID>
+<Object>12511</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Melanoidin (Weyermann)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Melanoidin (Weyermann)</F_SH_SHORT_NAME>
+<F_SH_NAME>Melanoidin (Weyermann) (30.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.8822676</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>485</PermId>
+<ID>52</ID>
+<Object>12514</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Pale Chocolate</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Pale Chocolate</F_SH_SHORT_NAME>
+<F_SH_NAME>Pale Chocolate (200.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>1.1102230</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>24.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>UK</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>493</PermId>
+<ID>53</ID>
+<Object>12517</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Amber Malt (Muntons)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Amber Malt (Muntons)</F_SH_SHORT_NAME>
+<F_SH_NAME>Amber Malt (Muntons) (22.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5881784</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>494</PermId>
+<ID>54</ID>
+<Object>12520</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>White Wheat Malt</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>White Wheat Malt</F_SH_SHORT_NAME>
+<F_SH_NAME>White Wheat Malt (2.4 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5358155</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2800000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>495</PermId>
+<ID>55</ID>
+<Object>12523</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Muntons Crystal 90</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Muntons Crystal 90</F_SH_SHORT_NAME>
+<F_SH_NAME>Muntons Crystal 90 (90.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.4411338</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>24.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>496</PermId>
+<ID>56</ID>
+<Object>12526</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Brown Malt (Crisp)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Brown Malt (Crisp)</F_SH_SHORT_NAME>
+<F_SH_NAME>Brown Malt (Crisp) (65.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.2940892</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>465</PermId>
+<ID>57</ID>
+<Object>12529</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Salt</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Salt</F_SH_SHORT_NAME>
+<F_SH_NAME>Salt (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>6.0429898</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>466</PermId>
+<ID>58</ID>
+<Object>12532</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Epsom Salt (MgSO4)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Epsom Salt (MgSO4)</F_SH_SHORT_NAME>
+<F_SH_NAME>Epsom Salt (MgSO4) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>8.0210249</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>467</PermId>
+<ID>59</ID>
+<Object>12535</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Baking Soda</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Baking Soda</F_SH_SHORT_NAME>
+<F_SH_NAME>Baking Soda (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>5.0030283</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>468</PermId>
+<ID>60</ID>
+<Object>12538</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Gypsum (Calcium Sulfate)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Gypsum (Calcium Sulfate)</F_SH_SHORT_NAME>
+<F_SH_NAME>Gypsum (Calcium Sulfate) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>6.6903109</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Swamp Ghost (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>497</PermId>
+<ID>61</ID>
+<Object>12541</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Hallertau Magnum</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Hallertau Magnum</F_SH_SHORT_NAME>
+<F_SH_NAME>Hallertau Magnum [13.20 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>0.2821289</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.6900000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>487</PermId>
+<ID>62</ID>
+<Object>12544</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Whirlfloc Tablet</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Whirlfloc Tablet</F_SH_SHORT_NAME>
+<F_SH_NAME>Whirlfloc Tablet (Boil 15.0 mins)</F_SH_NAME>
+<F_SH_AMOUNT>2.6000000</F_SH_AMOUNT>
+<F_SH_UNITS>Items</F_SH_UNITS>
+<F_SH_PRICE_UNITS>Items</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Fining</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>488</PermId>
+<ID>63</ID>
+<Object>12547</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Yeast Nutrient</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Yeast Nutrient</F_SH_SHORT_NAME>
+<F_SH_NAME>Yeast Nutrient (Boil 15.0 mins)</F_SH_NAME>
+<F_SH_AMOUNT>2.6000000</F_SH_AMOUNT>
+<F_SH_UNITS>tsp</F_SH_UNITS>
+<F_SH_PRICE_UNITS>tsp</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Other</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>486</PermId>
+<ID>64</ID>
+<Object>12550</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Fuggles</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Fuggles</F_SH_SHORT_NAME>
+<F_SH_NAME>Fuggles [5.00 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>1.2578321</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>3</Type>
+<PermId>486</PermId>
+<ID>65</ID>
+<Object>12553</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Fuggles</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Fuggles</F_SH_SHORT_NAME>
+<F_SH_NAME>Fuggles [5.00 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>1.8078321</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Admiral Prune</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>498</PermId>
+<ID>66</ID>
+<Object>12556</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Dusseldorf Alt Yeast</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Dusseldorf Alt Yeast</F_SH_SHORT_NAME>
+<F_SH_NAME>Dusseldorf Alt Yeast (White Labs #WLP036) [35.49 ml]</F_SH_NAME>
+<F_SH_AMOUNT>1.1000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>WLP036</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<Type>1</Type>
+<PermId>499</PermId>
+<ID>67</ID>
+<Object>12559</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Empire Ale</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-09</_MOD_>
+<F_SH_SHORT_NAME>Empire Ale</F_SH_SHORT_NAME>
+<F_SH_NAME>Empire Ale (Mangrove Jack&#39;s #M15)</F_SH_NAME>
+<F_SH_AMOUNT>0.5500000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>7.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>M15</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>

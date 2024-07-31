@@ -1,0 +1,761 @@
+<Selections><_MOD_>2018-05-05</_MOD_>
+<Name>Selections</Name>
+<Type>7406</Type>
+<Dirty>0</Dirty>
+<Owndata>0</Owndata>
+<TID>100</TID>
+<Size>23</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Alba Pale</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.2500000</F_G_COLOR>
+<F_G_YIELD>79.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>100.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Pale has flavor emphasis of biscuit and slightly bready
+
+Skagit Alba is a six row winter barley, developed by Dr. Pat Hayes or Oregon State University.  Alba barley has a slightly thicker husk, which contributes a clean, crisp, slightly bitter flavor.  Nutty notes can be noticed in the malt chew, but translate into something more fragrant in finished beer.  Skagit-grown Alba barley exhibits low total protein, typical to the region.  Since Alba tends to produce high levels of Beta Glucan, brewing with this barley requires scrutiny of mill settings and potentially a longer, or step mash. 
+
+
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Alba Pilsner</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.6000000</F_G_COLOR>
+<F_G_YIELD>79.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>100.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Pilsner has flavor emphasis of grassy and cracker
+
+Skagit Alba is a six row winter barley, developed by Dr. Pat Hayes or Oregon State University.  Alba barley has a slightly thicker husk, which contributes a clean, crisp, slightly bitter flavor.  Nutty notes can be noticed in the malt chew, but translate into something more fragrant in finished beer.  Skagit-grown Alba barley exhibits low total protein, typical to the region.  Since Alba tends to produce high levels of Beta Glucan, brewing with this barley requires scrutiny of mill settings and potentially a longer, or step mash. 
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-06-22</_MOD_>
+<F_G_NAME>Brumalt</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>25.0000000</F_G_COLOR>
+<F_G_YIELD>83.6000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.8000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>100.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>adds a delicate smooth sweet flavor simular to honey with hints of munich malt roast </F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Caramel 15</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>15.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+honey like sweetness with raisiny and fruit leather flavors and aromas. </F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Caramel 30</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>30.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Notable for its dark honey-like sweetness with very intense raisin and fruit leather notes, this malt imparts dark reddish tones, and can make a strong impact on flavor and color</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Caramel 5</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>5.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+honey-like sweetness, with dried raisin and fruit leather flavors, coupled with hints of nuts. </F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Copeland Ale</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.3100000</F_G_COLOR>
+<F_G_YIELD>81.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.9000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>90.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Ale has flavor emphasis of bready
+
+Skagit Copeland: Skagit Copeland is a well-known North American two row spring variety, developed at the Crop Development Center in Saskatchewan, CA by Dr. Brian Harvey, with a nod to the Craft Brewers&rsquo; practice of &lsquo;All Malt&rsquo; brewing.   Skagit Valley Copeland base malts present distinctive regional flavors described as honey graham crackers and freshly baked bread, along with a notably pleasant mouthfeel.   Skagit Copeland&rsquo;s inherently low proteins ranging 9.0-10.5%, are akin to grains grown in the UK and Germany, and make Skagit Copeland distinctive and more intense than typical Copeland grown in the North American Great Plains. </F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-12-05</_MOD_>
+<F_G_NAME>Copeland Dark Ale</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>6.4600000</F_G_COLOR>
+<F_G_YIELD>81.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.4000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>2.6000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>77.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.2000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Ale has flavor emphasis of bready
+
+NZ-151 is a two row spring malting barley variety released byWashington State University-Pullman, which grows exceedingly well in the Skagit Valley. It was bred to produce naturally low levels of proanthocyanidins, a known cause for post-refrigeration hazing and staling characteristic.  Currently, we are the only malt company working with NZ-151 - a robust, relatively low protein variety (10-11%).</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Copeland Pale</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.2000000</F_G_COLOR>
+<F_G_YIELD>81.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Pale has flavor emphasis of biscuit and slightly bready
+
+Skagit Copeland: Skagit Copeland is a well-known North American two row spring variety, developed at the Crop Development Center in Saskatchewan, CA by Dr. Brian Harvey, with a nod to the Craft Brewers&rsquo; practice of &lsquo;All Malt&rsquo; brewing.   Skagit Valley Copeland base malts present distinctive regional flavors described as honey graham crackers and freshly baked bread, along with a notably pleasant mouthfeel.   Skagit Copeland&rsquo;s inherently low proteins ranging 9.0-10.5%, are akin to grains grown in the UK and Germany, and make Skagit Copeland distinctive and more intense than typical Copeland grown in the North American Great Plains. </F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Copeland Pilsner</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.6000000</F_G_COLOR>
+<F_G_YIELD>81.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Pilsner has flavor emphasis of grassy and cracker
+
+Skagit Copeland: Skagit Copeland is a well-known North American two row spring variety, developed at the Crop Development Center in Saskatchewan, CA by Dr. Brian Harvey, with a nod to the Craft Brewers&rsquo; practice of &lsquo;All Malt&rsquo; brewing.   Skagit Valley Copeland base malts present distinctive regional flavors described as honey graham crackers and freshly baked bread, along with a notably pleasant mouthfeel.   Skagit Copeland&rsquo;s inherently low proteins ranging 9.0-10.5%, are akin to grains grown in the UK and Germany, and make Skagit Copeland distinctive and more intense than typical Copeland grown in the North American Great Plains. </F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Dark Munich</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>20.0000000</F_G_COLOR>
+<F_G_YIELD>78.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>50.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>80.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Intensified malty-sweet flavor, akin to a browned cookies and a hint of rich caramel.
+Brings a darker color of orange to brown.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Light Munich</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>10.0000000</F_G_COLOR>
+<F_G_YIELD>79.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>50.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>80.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Malty-sweet flavor, akin to a toasted graham cracker
+adds a slight orange color to the beer.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>NZ-151 Ale</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.1900000</F_G_COLOR>
+<F_G_YIELD>81.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.9000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>85.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Ale has flavor emphasis of bready
+
+NZ-151 is a two row spring malting barley variety released byWashington State University-Pullman, which grows exceedingly well in the Skagit Valley. It was bred to produce naturally low levels of proanthocyanidins, a known cause for post-refrigeration hazing and staling characteristic.  Currently, we are the only malt company working with NZ-151 - a robust, relatively low protein variety (10-11%).</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>NZ-151 Pale</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.2500000</F_G_COLOR>
+<F_G_YIELD>81.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.9000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>100.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Pale has flavor emphasis of biscuit and slightly bready
+
+NZ-151 is a two row spring malting barley variety released byWashington State University-Pullman, which grows exceedingly well in the Skagit Valley. It was bred to produce naturally low levels of proanthocyanidins, a known cause for post-refrigeration hazing and staling characteristic.  Currently, we are the only malt company working with NZ-151 - a robust, relatively low protein variety (10-11%).</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>NZ-151 Pilsner</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.6500000</F_G_COLOR>
+<F_G_YIELD>81.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.9000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>100.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Pilsner has flavor emphasis of grassy and cracker
+
+NZ-151 is a two row spring malting barley variety released byWashington State University-Pullman, which grows exceedingly well in the Skagit Valley. It was bred to produce naturally low levels of proanthocyanidins, a known cause for post-refrigeration hazing and staling characteristic.  Currently, we are the only malt company working with NZ-151 - a robust, relatively low protein variety (10-11%).</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Pilot Pale</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.2500000</F_G_COLOR>
+<F_G_YIELD>83.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>110.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Pale has flavor emphasis of biscuit and slightly bready
+
+Pilot, one of our UK origin series, is a two row spring malting barley variety.  It was bred for high temperature stable beta amylase, which could result in a beer with improved attenuation levels, particularly with higher-gravity brews. Beta amylase in Pilot base malts remain stable at higher temperatures, and is not denatured as quickly during a single temperature infusion mash between 150 &ndash; 160 degrees. Skagit-grown Pilot winter barley exhibits our signature UK low-protein profile, as well as high extract, low levels of Beta Glucans and moderate levels of FAN and diastatic power (DP) &ndash; ideal for All Malt brewing.  Skagit-grown Pilot base malts present fresh, biscuity notes.  It is well-suited </F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Pilot Pilsner</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.7500000</F_G_COLOR>
+<F_G_YIELD>83.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>110.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Pilsner has flavor emphasis of grassy and cracker
+
+Pilot, one of our UK origin series, is a two row spring malting barley variety.  It was bred for high temperature stable beta amylase, which could result in a beer with improved attenuation levels, particularly with higher-gravity brews. Beta amylase in Pilot base malts remain stable at higher temperatures, and is not denatured as quickly during a single temperature infusion mash between 150 &ndash; 160 degrees. Skagit-grown Pilot winter barley exhibits our signature UK low-protein profile, as well as high extract, low levels of Beta Glucans and moderate levels of FAN and diastatic power (DP) &ndash; ideal for All Malt brewing.  Skagit-grown Pilot base malts present fresh, biscuity notes.  It is well-suited </F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Talisman Pale</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.2500000</F_G_COLOR>
+<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>95.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Pale has flavor emphasis of biscuit and slightly bready
+
+Talisman, one of our UK origin series, is a two row winter malting barley variety. It is the latest of the current direct descendants of Maris Otter via the Puffin, Pearl, Flagon genetic pathway.  Skagit-grown Talisman winter barley exhibits our signature UK low-protein profile, as well as high extract, low levels of Beta Glucans and moderate levels of FAN and diastatic power (DP) - ideal for All Malt brewing. Skagit-grown Talisman base malts are well-suited to moderate gravity ales in both English and American style categories.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Talisman Pilsner</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.6000000</F_G_COLOR>
+<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>95.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Pilsner has flavor emphasis of grassy and cracker
+
+Talisman, one of our UK origin series, is a two row winter malting barley variety. It is the latest of the current direct descendants of Maris Otter via the Puffin, Pearl, Flagon genetic pathway.  Skagit-grown Talisman winter barley exhibits our signature UK low-protein profile, as well as high extract, low levels of Beta Glucans and moderate levels of FAN and diastatic power (DP) - ideal for All Malt brewing. Skagit-grown Talisman base malts are well-suited to moderate gravity ales in both English and American style categories.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Vienna</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>4.0000000</F_G_COLOR>
+<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>95.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>80.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Vienna malt is well known for its versatility in both color addition and flavor. Our Vienna showcases a clean toasted flavor, with a hint of caramel, combined with rich, golden color. Can be used as a primary base malt or as a specialty malt.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>Violetta Pale</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.2500000</F_G_COLOR>
+<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Pale has flavor emphasis of biscuit and slightly bready
+
+Violetta is a two row blue-aleurone winter two row variety originated in Germany that grows remarkably well in the coastal Pacific Northwest. While maintaining its Euro-style low-protein profile of 9 &ndash; 10.5%, Skagit-grown Violetta provides moderate levels of diastatic power (DP), Alpha Amylase and FAN &ndash; ideal for All-Malt brewing. Violetta is well-suited to many beer styles, especially the broad range of continental and early-American lagers.
+
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>White Wheat Malt</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.3000000</F_G_COLOR>
+<F_G_YIELD>84.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>100.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>12.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Soft white Wheat</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2017-04-27</_MOD_>
+<F_G_NAME>oDark 80</F_G_NAME>
+<F_G_ORIGIN>Skagit Valley, Washington, USA</F_G_ORIGIN>
+<F_G_SUPPLIER>Skagit Valley Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>80.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>80.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+oDark 80 presents unique complexity in both flavor and color, with dark caramel, chocolate, coffee and molasses cookie notes.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+</Selections>

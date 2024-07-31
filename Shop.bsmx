@@ -1,0 +1,1169 @@
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2011-02-14</_MOD_>
+<Name>Shop</Name>
+<Type>7448</Type>
+<Dirty>1</Dirty>
+<Owndata>1</Owndata>
+<TID>7448</TID>
+<Size>19</Size>
+<_XName>Shop</_XName>
+<Allocinc>16</Allocinc>
+<Data><Shop><_PERMID_>514</_PERMID_>
+<_MOD_>2024-07-28</_MOD_>
+<F_SH_SHORT_NAME>Nigel</F_SH_SHORT_NAME>
+<F_SH_NAME>Nigel</F_SH_NAME>
+<F_SH_AMOUNT>8.0178542</F_SH_AMOUNT>
+<F_SH_UNITS>gal</F_SH_UNITS>
+<F_SH_PRICE_UNITS>gal</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND></F_SH_SECOND>
+<F_SH_TYPE>9</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>515</_PERMID_>
+<_MOD_>2024-07-13</_MOD_>
+<F_SH_SHORT_NAME>Salt</F_SH_SHORT_NAME>
+<F_SH_NAME>Salt (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>2.9734906</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>516</_PERMID_>
+<_MOD_>2024-07-28</_MOD_>
+<F_SH_SHORT_NAME>Epsom Salt (MgSO4)</F_SH_SHORT_NAME>
+<F_SH_NAME>Epsom Salt (MgSO4) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>2.7304263</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>517</_PERMID_>
+<_MOD_>2024-07-28</_MOD_>
+<F_SH_SHORT_NAME>Baking Soda</F_SH_SHORT_NAME>
+<F_SH_NAME>Baking Soda (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>2.4617711</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>518</_PERMID_>
+<_MOD_>2024-07-28</_MOD_>
+<F_SH_SHORT_NAME>Gypsum (Calcium Sulfate)</F_SH_SHORT_NAME>
+<F_SH_NAME>Gypsum (Calcium Sulfate) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>1.6300054</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>519</_PERMID_>
+<_MOD_>2024-07-28</_MOD_>
+<F_SH_SHORT_NAME>Maris Otter (Crisp)</F_SH_SHORT_NAME>
+<F_SH_NAME>Maris Otter (Crisp) (4.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>4.2817296</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>520</_PERMID_>
+<_MOD_>2024-07-13</_MOD_>
+<F_SH_SHORT_NAME>Munich Malt, Germany (Avangard)</F_SH_SHORT_NAME>
+<F_SH_NAME>Munich Malt, Germany (Avangard) (9.5 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>1.6048307</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.7900000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>521</_PERMID_>
+<_MOD_>2024-07-13</_MOD_>
+<F_SH_SHORT_NAME>Melanoidin (Weyermann)</F_SH_SHORT_NAME>
+<F_SH_NAME>Melanoidin (Weyermann) (30.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.8822676</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>522</_PERMID_>
+<_MOD_>2024-07-28</_MOD_>
+<F_SH_SHORT_NAME>Pale Chocolate</F_SH_SHORT_NAME>
+<F_SH_NAME>Pale Chocolate (200.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.7352230</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>24.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>UK</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>523</_PERMID_>
+<_MOD_>2024-07-28</_MOD_>
+<F_SH_SHORT_NAME>Amber Malt (Muntons)</F_SH_SHORT_NAME>
+<F_SH_NAME>Amber Malt (Muntons) (22.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5881784</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>524</_PERMID_>
+<_MOD_>2024-07-28</_MOD_>
+<F_SH_SHORT_NAME>White Wheat Malt</F_SH_SHORT_NAME>
+<F_SH_NAME>White Wheat Malt (2.4 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5358155</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2800000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>525</_PERMID_>
+<_MOD_>2024-07-13</_MOD_>
+<F_SH_SHORT_NAME>Muntons Crystal 90</F_SH_SHORT_NAME>
+<F_SH_NAME>Muntons Crystal 90 (90.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.4411338</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>24.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>526</_PERMID_>
+<_MOD_>2024-07-13</_MOD_>
+<F_SH_SHORT_NAME>Brown Malt (Crisp)</F_SH_SHORT_NAME>
+<F_SH_NAME>Brown Malt (Crisp) (65.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.2940892</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>527</_PERMID_>
+<_MOD_>2024-07-13</_MOD_>
+<F_SH_SHORT_NAME>Hallertau Magnum</F_SH_SHORT_NAME>
+<F_SH_NAME>Hallertau Magnum [13.20 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>0.2821289</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.6900000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>528</_PERMID_>
+<_MOD_>2024-07-13</_MOD_>
+<F_SH_SHORT_NAME>Whirlfloc Tablet</F_SH_SHORT_NAME>
+<F_SH_NAME>Whirlfloc Tablet (Boil 15.0 mins)</F_SH_NAME>
+<F_SH_AMOUNT>1.1000000</F_SH_AMOUNT>
+<F_SH_UNITS>Items</F_SH_UNITS>
+<F_SH_PRICE_UNITS>Items</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Fining</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>529</_PERMID_>
+<_MOD_>2024-07-13</_MOD_>
+<F_SH_SHORT_NAME>Yeast Nutrient</F_SH_SHORT_NAME>
+<F_SH_NAME>Yeast Nutrient (Boil 15.0 mins)</F_SH_NAME>
+<F_SH_AMOUNT>1.1000000</F_SH_AMOUNT>
+<F_SH_UNITS>tsp</F_SH_UNITS>
+<F_SH_PRICE_UNITS>tsp</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Other</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>530</_PERMID_>
+<_MOD_>2024-07-13</_MOD_>
+<F_SH_SHORT_NAME>Fuggles</F_SH_SHORT_NAME>
+<F_SH_NAME>Fuggles [6.10 %] - Boil 10.0 min</F_SH_NAME>
+<F_SH_AMOUNT>1.0578321</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>531</_PERMID_>
+<_MOD_>2024-07-13</_MOD_>
+<F_SH_SHORT_NAME>Dusseldorf Alt Yeast</F_SH_SHORT_NAME>
+<F_SH_NAME>Dusseldorf Alt Yeast (White Labs #WLP036) [35.49 ml]</F_SH_NAME>
+<F_SH_AMOUNT>1.1000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>WLP036</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+<Shop><_PERMID_>532</_PERMID_>
+<_MOD_>2024-07-13</_MOD_>
+<F_SH_SHORT_NAME>Empire Ale</F_SH_SHORT_NAME>
+<F_SH_NAME>Empire Ale (Mangrove Jack&#39;s #M15)</F_SH_NAME>
+<F_SH_AMOUNT>0.5500000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>7.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>M15</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Lion, Bridge &amp; The Wardrobe (5.5)</F_SH_NOTES>
+</Shop>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+<TxLog>1</TxLog>
+<PermCount>532</PermCount>
+<TxCount>0</TxCount>
+<TxTable>10277</TxTable>
+<TxPath>/Users/Barry/Library/Application Support/BeerSmith3/Shop.bsmx</TxPath>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>523</PermId>
+<ID>1</ID>
+<Object>12547</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Amber Malt (Muntons)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<Type>2</Type>
+<PermId>526</PermId>
+<ID>2</ID>
+<Object>12549</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Brown Malt (Crisp)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>519</PermId>
+<ID>3</ID>
+<Object>12551</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Maris Otter (Crisp)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>521</PermId>
+<ID>4</ID>
+<Object>12553</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Melanoidin (Weyermann)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>520</PermId>
+<ID>5</ID>
+<Object>12555</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Munich Malt, Germany (Avangard)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>525</PermId>
+<ID>6</ID>
+<Object>12557</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Muntons Crystal 90</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>522</PermId>
+<ID>7</ID>
+<Object>12559</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Pale Chocolate</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>524</PermId>
+<ID>8</ID>
+<Object>12561</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>White Wheat Malt</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>530</PermId>
+<ID>9</ID>
+<Object>12563</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Fuggles</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>527</PermId>
+<ID>10</ID>
+<Object>12565</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Hallertau Magnum</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>517</PermId>
+<ID>11</ID>
+<Object>12567</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Baking Soda</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>516</PermId>
+<ID>12</ID>
+<Object>12569</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Epsom Salt (MgSO4)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>518</PermId>
+<ID>13</ID>
+<Object>12571</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Gypsum (Calcium Sulfate)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>515</PermId>
+<ID>14</ID>
+<Object>12573</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Salt</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>528</PermId>
+<ID>15</ID>
+<Object>12575</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Whirlfloc Tablet</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>529</PermId>
+<ID>16</ID>
+<Object>12577</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Yeast Nutrient</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>514</PermId>
+<ID>17</ID>
+<Object>12579</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Nigel</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>531</PermId>
+<ID>18</ID>
+<Object>12581</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Dusseldorf Alt Yeast</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>532</PermId>
+<ID>19</ID>
+<Object>12583</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Empire Ale</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>533</PermId>
+<ID>20</ID>
+<Object>12630</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Magnum</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<F_SH_SHORT_NAME>Magnum</F_SH_SHORT_NAME>
+<F_SH_NAME>Magnum [13.00 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>0.7500000</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.2900000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>U.S.</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>534</PermId>
+<ID>21</ID>
+<Object>12633</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Pilsner</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Pilsner</F_SH_SHORT_NAME>
+<F_SH_NAME>Pilsner (2.3 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>10.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.0300000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Finland</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>535</PermId>
+<ID>22</ID>
+<Object>12636</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Munich Malt - Bin 1</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Munich Malt - Bin 1</F_SH_SHORT_NAME>
+<F_SH_NAME>Munich Malt - Bin 1 (9.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>1.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2800000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>536</PermId>
+<ID>23</ID>
+<Object>12639</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Carafa II - Bin 2</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Carafa II - Bin 2</F_SH_SHORT_NAME>
+<F_SH_NAME>Carafa II - Bin 2 (412.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.2500000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2800000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>537</PermId>
+<ID>24</ID>
+<Object>12642</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Caramunich I (Weyermann)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Caramunich I (Weyermann)</F_SH_SHORT_NAME>
+<F_SH_NAME>Caramunich I (Weyermann) (51.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.2500000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>538</PermId>
+<ID>25</ID>
+<Object>12645</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Crisp? Pale Chocolate - Bin 2</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Crisp? Pale Chocolate - Bin 2</F_SH_SHORT_NAME>
+<F_SH_NAME>Crisp? Pale Chocolate - Bin 2 (225.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.1870000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.9000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND></F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>539</PermId>
+<ID>26</ID>
+<Object>12648</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Gypsum (Calcium Sulfate)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Gypsum (Calcium Sulfate)</F_SH_SHORT_NAME>
+<F_SH_NAME>Gypsum (Calcium Sulfate) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>1.1705122</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>540</PermId>
+<ID>27</ID>
+<Object>12651</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Salt</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<F_SH_SHORT_NAME>Salt</F_SH_SHORT_NAME>
+<F_SH_NAME>Salt (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>0.4177988</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>541</PermId>
+<ID>28</ID>
+<Object>12654</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Epsom Salt (MgSO4)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Epsom Salt (MgSO4)</F_SH_SHORT_NAME>
+<F_SH_NAME>Epsom Salt (MgSO4) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>0.5980364</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>542</PermId>
+<ID>29</ID>
+<Object>12657</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Calcium Chloride</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Calcium Chloride</F_SH_SHORT_NAME>
+<F_SH_NAME>Calcium Chloride (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>1.2966597</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>543</PermId>
+<ID>30</ID>
+<Object>12660</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Baking Soda</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Baking Soda</F_SH_SHORT_NAME>
+<F_SH_NAME>Baking Soda (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>0.5352311</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>539</PermId>
+<ID>31</ID>
+<Object>12663</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Gypsum (Calcium Sulfate)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Gypsum (Calcium Sulfate)</F_SH_SHORT_NAME>
+<F_SH_NAME>Gypsum (Calcium Sulfate) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>2.5204219</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>540</PermId>
+<ID>32</ID>
+<Object>12666</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Salt</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<F_SH_SHORT_NAME>Salt</F_SH_SHORT_NAME>
+<F_SH_NAME>Salt (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>0.8996312</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>541</PermId>
+<ID>33</ID>
+<Object>12669</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Epsom Salt (MgSO4)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Epsom Salt (MgSO4)</F_SH_SHORT_NAME>
+<F_SH_NAME>Epsom Salt (MgSO4) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>1.2877303</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>542</PermId>
+<ID>34</ID>
+<Object>12672</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Calcium Chloride</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Calcium Chloride</F_SH_SHORT_NAME>
+<F_SH_NAME>Calcium Chloride (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>2.7920506</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>543</PermId>
+<ID>35</ID>
+<Object>12675</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Baking Soda</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Baking Soda</F_SH_SHORT_NAME>
+<F_SH_NAME>Baking Soda (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>1.1524939</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>544</PermId>
+<ID>36</ID>
+<Object>12678</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Dusseldorf Alt Yeast</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Dusseldorf Alt Yeast</F_SH_SHORT_NAME>
+<F_SH_NAME>Dusseldorf Alt Yeast (White Labs #WLP036) [35.49 ml]</F_SH_NAME>
+<F_SH_AMOUNT>1.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>WLP036</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>534</PermId>
+<ID>37</ID>
+<Object>12741</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Pilsner</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Pilsner</F_SH_SHORT_NAME>
+<F_SH_NAME>Pilsner (2.3 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>20.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.0300000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Finland</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>535</PermId>
+<ID>38</ID>
+<Object>12744</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Munich Malt - Bin 1</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Munich Malt - Bin 1</F_SH_SHORT_NAME>
+<F_SH_NAME>Munich Malt - Bin 1 (9.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>1.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2800000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>545</PermId>
+<ID>39</ID>
+<Object>12747</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Hallertau</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Hallertau</F_SH_SHORT_NAME>
+<F_SH_NAME>Hallertau [4.00 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>1.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>TBI  Big Bag</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Kolsch</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>1</Type>
+<PermId>546</PermId>
+<ID>40</ID>
+<Object>12750</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>German Ale/Kolsch</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<F_SH_SHORT_NAME>German Ale/Kolsch</F_SH_SHORT_NAME>
+<F_SH_NAME>German Ale/Kolsch (White Labs #WLP029) [35.49 ml]</F_SH_NAME>
+<F_SH_AMOUNT>1.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>WLP029</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Kolsch</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>539</PermId>
+<ID>41</ID>
+<Object>12753</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Gypsum (Calcium Sulfate)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Gypsum (Calcium Sulfate)</F_SH_SHORT_NAME>
+<F_SH_NAME>Gypsum (Calcium Sulfate) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>3.8697197</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>540</PermId>
+<ID>42</ID>
+<Object>12756</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Salt</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<F_SH_SHORT_NAME>Salt</F_SH_SHORT_NAME>
+<F_SH_NAME>Salt (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>1.3891350</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>539</PermId>
+<ID>43</ID>
+<Object>12759</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Gypsum (Calcium Sulfate)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Gypsum (Calcium Sulfate)</F_SH_SHORT_NAME>
+<F_SH_NAME>Gypsum (Calcium Sulfate) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>5.6765846</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>540</PermId>
+<ID>44</ID>
+<Object>12762</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Salt</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<F_SH_SHORT_NAME>Salt</F_SH_SHORT_NAME>
+<F_SH_NAME>Salt (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>2.0446368</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>541</PermId>
+<ID>45</ID>
+<Object>12765</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Epsom Salt (MgSO4)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Epsom Salt (MgSO4)</F_SH_SHORT_NAME>
+<F_SH_NAME>Epsom Salt (MgSO4) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>2.0995119</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>542</PermId>
+<ID>46</ID>
+<Object>12768</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Calcium Chloride</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Calcium Chloride</F_SH_SHORT_NAME>
+<F_SH_NAME>Calcium Chloride (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>3.2667907</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>543</PermId>
+<ID>47</ID>
+<Object>12771</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Baking Soda</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Baking Soda</F_SH_SHORT_NAME>
+<F_SH_NAME>Baking Soda (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>1.4270155</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>541</PermId>
+<ID>48</ID>
+<Object>12774</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Epsom Salt (MgSO4)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Epsom Salt (MgSO4)</F_SH_SHORT_NAME>
+<F_SH_NAME>Epsom Salt (MgSO4) (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>3.1865808</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>542</PermId>
+<ID>49</ID>
+<Object>12777</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Calcium Chloride</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Calcium Chloride</F_SH_SHORT_NAME>
+<F_SH_NAME>Calcium Chloride (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>3.9025222</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>3</Type>
+<PermId>543</PermId>
+<ID>50</ID>
+<Object>12780</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Baking Soda</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Baking Soda</F_SH_SHORT_NAME>
+<F_SH_NAME>Baking Soda (Mash)</F_SH_NAME>
+<F_SH_AMOUNT>1.7946316</F_SH_AMOUNT>
+<F_SH_UNITS>g</F_SH_UNITS>
+<F_SH_PRICE_UNITS>g</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>0.1000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Water Agent</F_SH_SECOND>
+<F_SH_TYPE>7</F_SH_TYPE>
+<F_SH_NOTES>For recipe: BCS Alt Beer</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>543</PermId>
+<ID>51</ID>
+<Object>12818</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Baking Soda</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>542</PermId>
+<ID>52</ID>
+<Object>12820</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Calcium Chloride</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>541</PermId>
+<ID>53</ID>
+<Object>12822</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Epsom Salt (MgSO4)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>539</PermId>
+<ID>54</ID>
+<Object>12824</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Gypsum (Calcium Sulfate)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-07-29</_MOD_>
+<Type>2</Type>
+<PermId>540</PermId>
+<ID>55</ID>
+<Object>12826</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Salt</Name>
+</Tx>

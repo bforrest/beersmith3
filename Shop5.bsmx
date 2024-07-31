@@ -1,0 +1,1549 @@
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2011-02-14</_MOD_>
+<Name>Shop</Name>
+<Type>7448</Type>
+<Dirty>1</Dirty>
+<Owndata>1</Owndata>
+<TID>7448</TID>
+<Size>0</Size>
+<_XName>Shop</_XName>
+<Allocinc>16</Allocinc>
+<Data></Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+<TxLog>1</TxLog>
+<PermCount>386</PermCount>
+<TxCount>0</TxCount>
+<TxTable>9634</TxTable>
+<TxPath>/Users/Barry/Library/Application Support/BeerSmith3/Shop.bsmx</TxPath>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>387</PermId>
+<ID>1</ID>
+<Object>13174</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Pale Malt, Maris Otter (Thomas Fawcett)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Pale Malt, Maris Otter (Thomas Fawcett)</F_SH_SHORT_NAME>
+<F_SH_NAME>Pale Malt, Maris Otter (Thomas Fawcett) (3.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>5.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>388</PermId>
+<ID>2</ID>
+<Object>13177</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Munich (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Munich (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Munich (Dingemans) (5.5 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>5.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>389</PermId>
+<ID>3</ID>
+<Object>13180</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Aromatic Malt (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Aromatic Malt (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Aromatic Malt (Dingemans) (19.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>390</PermId>
+<ID>4</ID>
+<Object>13183</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Special Roast (Briess)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Special Roast (Briess)</F_SH_SHORT_NAME>
+<F_SH_NAME>Special Roast (Briess) (50.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>391</PermId>
+<ID>5</ID>
+<Object>13186</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Oats, Flaked</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Oats, Flaked</F_SH_SHORT_NAME>
+<F_SH_NAME>Oats, Flaked (1.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2800000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>392</PermId>
+<ID>6</ID>
+<Object>13189</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Special B (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Special B (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Special B (Dingemans) (147.5 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.2500000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>393</PermId>
+<ID>7</ID>
+<Object>13192</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Hallertau</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Hallertau</F_SH_SHORT_NAME>
+<F_SH_NAME>Hallertau [2.70 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>2.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>TBI  Big Bag</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>394</PermId>
+<ID>8</ID>
+<Object>13195</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>German Ale</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>German Ale</F_SH_SHORT_NAME>
+<F_SH_NAME>German Ale (Wyeast Labs #1007) [124.21 ml]</F_SH_NAME>
+<F_SH_AMOUNT>1.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>1007</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>395</PermId>
+<ID>9</ID>
+<Object>13198</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Roselare Belgian Blend</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Roselare Belgian Blend</F_SH_SHORT_NAME>
+<F_SH_NAME>Roselare Belgian Blend (Wyeast Labs #3763) [124.21 ml]</F_SH_NAME>
+<F_SH_AMOUNT>1.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>3763</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>396</PermId>
+<ID>10</ID>
+<Object>13251</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Maris Otter Malt (Muntons)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Maris Otter Malt (Muntons)</F_SH_SHORT_NAME>
+<F_SH_NAME>Maris Otter Malt (Muntons) (3.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>2.7500000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.4900000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Pico Irish Red</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>397</PermId>
+<ID>11</ID>
+<Object>13254</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Caramel/Crystal Malt -120L</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Caramel/Crystal Malt -120L</F_SH_SHORT_NAME>
+<F_SH_NAME>Caramel/Crystal Malt -120L (120.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.1250000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2800000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Pico Irish Red</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>398</PermId>
+<ID>12</ID>
+<Object>13257</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Chocolate Rye (Weyermann)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Chocolate Rye (Weyermann)</F_SH_SHORT_NAME>
+<F_SH_NAME>Chocolate Rye (Weyermann) (245.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.0150000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Pico Irish Red</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>399</PermId>
+<ID>13</ID>
+<Object>13260</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>East Kent Goldings (EKG)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>East Kent Goldings (EKG)</F_SH_SHORT_NAME>
+<F_SH_NAME>East Kent Goldings (EKG) [5.00 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>0.3000000</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.9900000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Pico Irish Red</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>400</PermId>
+<ID>14</ID>
+<Object>13263</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Irish Ale</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Irish Ale</F_SH_SHORT_NAME>
+<F_SH_NAME>Irish Ale (Wyeast Labs #1084) [124.21 ml]</F_SH_NAME>
+<F_SH_AMOUNT>1.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>1084</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Pico Irish Red</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>401</PermId>
+<ID>15</ID>
+<Object>13266</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Cara 45 (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Cara 45 (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Cara 45 (Dingemans) (47.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.1250000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Pico Irish Red</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>402</PermId>
+<ID>16</ID>
+<Object>13323</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Pilsen Malt 2-Row (Briess)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Pilsen Malt 2-Row (Briess)</F_SH_SHORT_NAME>
+<F_SH_NAME>Pilsen Malt 2-Row (Briess) (1.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>7.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Oud Bruin (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>403</PermId>
+<ID>17</ID>
+<Object>13326</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Munich I (Weyermann)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Munich I (Weyermann)</F_SH_SHORT_NAME>
+<F_SH_NAME>Munich I (Weyermann) (7.1 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>5.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Oud Bruin (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>404</PermId>
+<ID>18</ID>
+<Object>13329</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Wheat Malt (Muntons)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Wheat Malt (Muntons)</F_SH_SHORT_NAME>
+<F_SH_NAME>Wheat Malt (Muntons) (2.2 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Oud Bruin (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>405</PermId>
+<ID>19</ID>
+<Object>13332</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Caramel/Crystal Malt - 65L (Bairds)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Caramel/Crystal Malt - 65L (Bairds)</F_SH_SHORT_NAME>
+<F_SH_NAME>Caramel/Crystal Malt - 65L (Bairds) (65.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.4900000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Oud Bruin (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>3</Type>
+<PermId>392</PermId>
+<ID>20</ID>
+<Object>13335</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Special B (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Special B (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Special B (Dingemans) (147.5 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.7500000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>406</PermId>
+<ID>21</ID>
+<Object>13338</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Biscuit (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Biscuit (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Biscuit (Dingemans) (22.5 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Oud Bruin (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>407</PermId>
+<ID>22</ID>
+<Object>13341</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Carafa III (Weyermann)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Carafa III (Weyermann)</F_SH_SHORT_NAME>
+<F_SH_NAME>Carafa III (Weyermann) (525.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.2200000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Oud Bruin (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>408</PermId>
+<ID>23</ID>
+<Object>13344</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Styrian Goldings</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Styrian Goldings</F_SH_SHORT_NAME>
+<F_SH_NAME>Styrian Goldings [5.40 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>1.4000000</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Slovenia</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Oud Bruin (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>3</Type>
+<PermId>394</PermId>
+<ID>24</ID>
+<Object>13347</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>German Ale</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>German Ale</F_SH_SHORT_NAME>
+<F_SH_NAME>German Ale (Wyeast Labs #1007) [124.21 ml]</F_SH_NAME>
+<F_SH_AMOUNT>2.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>1007</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>3</Type>
+<PermId>395</PermId>
+<ID>25</ID>
+<Object>13350</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Roselare Belgian Blend</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Roselare Belgian Blend</F_SH_SHORT_NAME>
+<F_SH_NAME>Roselare Belgian Blend (Wyeast Labs #3763) [124.21 ml]</F_SH_NAME>
+<F_SH_AMOUNT>2.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>3763</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<Type>2</Type>
+<PermId>387</PermId>
+<ID>26</ID>
+<Object>13412</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Pale Malt, Maris Otter (Thomas Fawcett)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>388</PermId>
+<ID>27</ID>
+<Object>13414</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Munich (Dingemans)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>389</PermId>
+<ID>28</ID>
+<Object>13416</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Aromatic Malt (Dingemans)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>390</PermId>
+<ID>29</ID>
+<Object>13418</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Special Roast (Briess)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<Type>2</Type>
+<PermId>391</PermId>
+<ID>30</ID>
+<Object>13420</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Oats, Flaked</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>392</PermId>
+<ID>31</ID>
+<Object>13422</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Special B (Dingemans)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>393</PermId>
+<ID>32</ID>
+<Object>13424</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Hallertau</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>394</PermId>
+<ID>33</ID>
+<Object>13426</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>German Ale</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>395</PermId>
+<ID>34</ID>
+<Object>13428</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Roselare Belgian Blend</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>396</PermId>
+<ID>35</ID>
+<Object>13430</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Maris Otter Malt (Muntons)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>397</PermId>
+<ID>36</ID>
+<Object>13432</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Caramel/Crystal Malt -120L</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>398</PermId>
+<ID>37</ID>
+<Object>13434</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Chocolate Rye (Weyermann)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>399</PermId>
+<ID>38</ID>
+<Object>13436</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>East Kent Goldings (EKG)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>400</PermId>
+<ID>39</ID>
+<Object>13438</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Irish Ale</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>401</PermId>
+<ID>40</ID>
+<Object>13440</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Cara 45 (Dingemans)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>402</PermId>
+<ID>41</ID>
+<Object>13442</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Pilsen Malt 2-Row (Briess)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>403</PermId>
+<ID>42</ID>
+<Object>13444</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Munich I (Weyermann)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>404</PermId>
+<ID>43</ID>
+<Object>13446</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Wheat Malt (Muntons)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>405</PermId>
+<ID>44</ID>
+<Object>13448</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Caramel/Crystal Malt - 65L (Bairds)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>406</PermId>
+<ID>45</ID>
+<Object>13450</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Biscuit (Dingemans)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>407</PermId>
+<ID>46</ID>
+<Object>13452</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Carafa III (Weyermann)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>2</Type>
+<PermId>408</PermId>
+<ID>47</ID>
+<Object>13454</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Styrian Goldings</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>409</PermId>
+<ID>48</ID>
+<Object>13489</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Maris Otter Malt (Muntons)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Maris Otter Malt (Muntons)</F_SH_SHORT_NAME>
+<F_SH_NAME>Maris Otter Malt (Muntons) (3.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>2.7500000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.4900000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Pico Irish Red</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>410</PermId>
+<ID>49</ID>
+<Object>13492</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Caramel/Crystal Malt -120L</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Caramel/Crystal Malt -120L</F_SH_SHORT_NAME>
+<F_SH_NAME>Caramel/Crystal Malt -120L (120.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.1250000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2800000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Pico Irish Red</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>411</PermId>
+<ID>50</ID>
+<Object>13495</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Chocolate Rye (Weyermann)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Chocolate Rye (Weyermann)</F_SH_SHORT_NAME>
+<F_SH_NAME>Chocolate Rye (Weyermann) (245.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.0150000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Pico Irish Red</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>412</PermId>
+<ID>51</ID>
+<Object>13498</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>East Kent Goldings (EKG)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>East Kent Goldings (EKG)</F_SH_SHORT_NAME>
+<F_SH_NAME>East Kent Goldings (EKG) [5.00 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>0.3000000</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.9900000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Pico Irish Red</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>413</PermId>
+<ID>52</ID>
+<Object>13501</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Irish Ale</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Irish Ale</F_SH_SHORT_NAME>
+<F_SH_NAME>Irish Ale (Wyeast Labs #1084) [124.21 ml]</F_SH_NAME>
+<F_SH_AMOUNT>1.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>1084</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Pico Irish Red</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>414</PermId>
+<ID>53</ID>
+<Object>13504</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Cara 45 (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_SH_SHORT_NAME>Cara 45 (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Cara 45 (Dingemans) (47.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.1250000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Pico Irish Red</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>415</PermId>
+<ID>54</ID>
+<Object>13560</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Pale Malt, Maris Otter (Thomas Fawcett)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Pale Malt, Maris Otter (Thomas Fawcett)</F_SH_SHORT_NAME>
+<F_SH_NAME>Pale Malt, Maris Otter (Thomas Fawcett) (3.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>5.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>416</PermId>
+<ID>55</ID>
+<Object>13563</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Munich (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Munich (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Munich (Dingemans) (5.5 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>5.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>417</PermId>
+<ID>56</ID>
+<Object>13566</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Aromatic Malt (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Aromatic Malt (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Aromatic Malt (Dingemans) (19.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>418</PermId>
+<ID>57</ID>
+<Object>13569</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Special Roast (Briess)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Special Roast (Briess)</F_SH_SHORT_NAME>
+<F_SH_NAME>Special Roast (Briess) (50.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>419</PermId>
+<ID>58</ID>
+<Object>13572</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Oats, Flaked</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Oats, Flaked</F_SH_SHORT_NAME>
+<F_SH_NAME>Oats, Flaked (1.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2800000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>420</PermId>
+<ID>59</ID>
+<Object>13575</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Special B (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Special B (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Special B (Dingemans) (147.5 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.2500000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>421</PermId>
+<ID>60</ID>
+<Object>13578</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Hallertau</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Hallertau</F_SH_SHORT_NAME>
+<F_SH_NAME>Hallertau [2.70 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>2.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>TBI  Big Bag</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>422</PermId>
+<ID>61</ID>
+<Object>13581</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>German Ale</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>German Ale</F_SH_SHORT_NAME>
+<F_SH_NAME>German Ale (Wyeast Labs #1007) [124.21 ml]</F_SH_NAME>
+<F_SH_AMOUNT>1.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>1007</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>423</PermId>
+<ID>62</ID>
+<Object>13584</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Roselare Belgian Blend</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Roselare Belgian Blend</F_SH_SHORT_NAME>
+<F_SH_NAME>Roselare Belgian Blend (Wyeast Labs #3763) [124.21 ml]</F_SH_NAME>
+<F_SH_AMOUNT>1.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>3763</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>424</PermId>
+<ID>63</ID>
+<Object>13641</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Pilsen Malt 2-Row (Briess)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Pilsen Malt 2-Row (Briess)</F_SH_SHORT_NAME>
+<F_SH_NAME>Pilsen Malt 2-Row (Briess) (1.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>7.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Oud Bruin (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>425</PermId>
+<ID>64</ID>
+<Object>13644</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Wheat Malt (Muntons)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Wheat Malt (Muntons)</F_SH_SHORT_NAME>
+<F_SH_NAME>Wheat Malt (Muntons) (2.2 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Oud Bruin (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>426</PermId>
+<ID>65</ID>
+<Object>13647</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Caramel/Crystal Malt - 65L (Bairds)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Caramel/Crystal Malt - 65L (Bairds)</F_SH_SHORT_NAME>
+<F_SH_NAME>Caramel/Crystal Malt - 65L (Bairds) (65.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>2.4900000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>United Kingdom</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Oud Bruin (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>3</Type>
+<PermId>420</PermId>
+<ID>66</ID>
+<Object>13650</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Special B (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Special B (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Special B (Dingemans) (147.5 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.7500000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>427</PermId>
+<ID>67</ID>
+<Object>13653</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Biscuit (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Biscuit (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Biscuit (Dingemans) (22.5 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.5000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Oud Bruin (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>428</PermId>
+<ID>68</ID>
+<Object>13656</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Carafa III (Weyermann)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Carafa III (Weyermann)</F_SH_SHORT_NAME>
+<F_SH_NAME>Carafa III (Weyermann) (525.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.2200000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Oud Bruin (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>1</Type>
+<PermId>429</PermId>
+<ID>69</ID>
+<Object>13659</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Styrian Goldings</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Styrian Goldings</F_SH_SHORT_NAME>
+<F_SH_NAME>Styrian Goldings [5.40 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>1.4000000</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Slovenia</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Oud Bruin (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>3</Type>
+<PermId>422</PermId>
+<ID>70</ID>
+<Object>13662</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>German Ale</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>German Ale</F_SH_SHORT_NAME>
+<F_SH_NAME>German Ale (Wyeast Labs #1007) [124.21 ml]</F_SH_NAME>
+<F_SH_AMOUNT>2.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>1007</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>3</Type>
+<PermId>423</PermId>
+<ID>71</ID>
+<Object>13665</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Roselare Belgian Blend</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Roselare Belgian Blend</F_SH_SHORT_NAME>
+<F_SH_NAME>Roselare Belgian Blend (Wyeast Labs #3763) [124.21 ml]</F_SH_NAME>
+<F_SH_AMOUNT>2.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>3763</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<Type>3</Type>
+<PermId>416</PermId>
+<ID>72</ID>
+<Object>13668</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Munich (Dingemans)</Name>
+</Tx>
+<Shop><_PERMID_>0</_PERMID_>
+<_MOD_>2024-02-29</_MOD_>
+<F_SH_SHORT_NAME>Munich (Dingemans)</F_SH_SHORT_NAME>
+<F_SH_NAME>Munich (Dingemans) (5.5 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>10.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Belgium</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Flanders Red (Make your best)</F_SH_NOTES>
+</Shop>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>409</PermId>
+<ID>73</ID>
+<Object>13707</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Maris Otter Malt (Muntons)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>410</PermId>
+<ID>74</ID>
+<Object>13709</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Caramel/Crystal Malt -120L</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>411</PermId>
+<ID>75</ID>
+<Object>13711</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Chocolate Rye (Weyermann)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>412</PermId>
+<ID>76</ID>
+<Object>13713</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>East Kent Goldings (EKG)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>413</PermId>
+<ID>77</ID>
+<Object>13715</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Irish Ale</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>414</PermId>
+<ID>78</ID>
+<Object>13717</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Cara 45 (Dingemans)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>415</PermId>
+<ID>79</ID>
+<Object>13719</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Pale Malt, Maris Otter (Thomas Fawcett)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>416</PermId>
+<ID>80</ID>
+<Object>13721</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Munich (Dingemans)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>417</PermId>
+<ID>81</ID>
+<Object>13723</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Aromatic Malt (Dingemans)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>418</PermId>
+<ID>82</ID>
+<Object>13725</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Special Roast (Briess)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2003-12-29</_MOD_>
+<Type>2</Type>
+<PermId>419</PermId>
+<ID>83</ID>
+<Object>13727</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Oats, Flaked</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>420</PermId>
+<ID>84</ID>
+<Object>13729</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Special B (Dingemans)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>421</PermId>
+<ID>85</ID>
+<Object>13731</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Hallertau</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>422</PermId>
+<ID>86</ID>
+<Object>13733</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>German Ale</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>423</PermId>
+<ID>87</ID>
+<Object>13735</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Roselare Belgian Blend</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>424</PermId>
+<ID>88</ID>
+<Object>13737</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Pilsen Malt 2-Row (Briess)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>425</PermId>
+<ID>89</ID>
+<Object>13739</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Wheat Malt (Muntons)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>426</PermId>
+<ID>90</ID>
+<Object>13741</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Caramel/Crystal Malt - 65L (Bairds)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>427</PermId>
+<ID>91</ID>
+<Object>13743</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Biscuit (Dingemans)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>428</PermId>
+<ID>92</ID>
+<Object>13745</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Carafa III (Weyermann)</Name>
+</Tx>
+<Tx><_PERMID_>0</_PERMID_>
+<_MOD_>2024-03-09</_MOD_>
+<Type>2</Type>
+<PermId>429</PermId>
+<ID>93</ID>
+<Object>13747</Object>
+<ObjType>7448</ObjType>
+<SubFolder>0</SubFolder>
+<Name>Styrian Goldings</Name>
+</Tx>

@@ -1,0 +1,421 @@
+<Selections><_PERMID_>0</_PERMID_>
+<_MOD_>2022-05-04</_MOD_>
+<Name>Selections</Name>
+<Type>7406</Type>
+<Dirty>0</Dirty>
+<Owndata>0</Owndata>
+<TID>100</TID>
+<Size>12</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Grain><_PERMID_>495</_PERMID_>
+<_MOD_>2023-05-31</_MOD_>
+<F_G_NAME>Angry Angler Roast Barley Pauls Malt</F_G_NAME>
+<F_G_ORIGIN>England</F_G_ORIGIN>
+<F_G_SUPPLIER>Pauls Malt</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>761.4213198</F_G_COLOR>
+<F_G_YIELD>74.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Astringent, bitter, burnt taste, with coffee and nutty flavours
+
+We produce this malt at our Pauls Malt Ltd. plant in Knapton, North Yorkshire, UK. Unmalted barley in a rotating roast drum is roasted to temperatures of up to 240&deg;C. Water is used to extend the roasting time and for quenching and cooling at the end of a roast to prevent combustion.
+
+Provides colour to beer, depending on quantity added it can produce deep red hue or a rich dark black. Roast coffee flavour. </F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>494</_PERMID_>
+<_MOD_>2023-05-31</_MOD_>
+<F_G_NAME>Angry Bear Back Malt Pauls Malt</F_G_NAME>
+<F_G_ORIGIN>England</F_G_ORIGIN>
+<F_G_SUPPLIER>Pauls Malt</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>736.0406091</F_G_COLOR>
+<F_G_YIELD>74.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>12.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Identical in flavour with high end chocolate malt, but higher in colour.
+
+We produce this malt at our Pauls Malt Ltd. plant in Knapton, North Yorkshire, UK. Black malt is produced by roasting kiln dried malt to temperatures of up to 240&deg;C for slightly longer periods of time than regular Chocolate Malt. Water is used to extend the roasting time and for quenching and cooling at the end of a roast to prevent combustion.
+
+Heavily Roasted, provides colour to beer. Depending on the quantity added, it can produce a deep red hue or a rich dark black. A dry biscuit with roasted coco bean flavour, less astringent and more friable than Roast Barley. </F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>487</_PERMID_>
+<_MOD_>2023-05-31</_MOD_>
+<F_G_NAME>Captains Classic Cara Malt Pauls Malt</F_G_NAME>
+<F_G_ORIGIN>England</F_G_ORIGIN>
+<F_G_SUPPLIER>Pauls Malt</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>15.2284264</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>7.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>We produce this malt at our Pauls Malt Ltd. plant in Knapton, North Yorkshire, UK. CaraMalt is produced in much the same way as Crystal but the final roast stage is extended and carried out at lower temperatures to meet the requirements for lower colour, higher extract and higher moisture.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>485</_PERMID_>
+<_MOD_>2023-05-31</_MOD_>
+<F_G_NAME>Dead Straight Amber Malt Pauls Malt</F_G_NAME>
+<F_G_ORIGIN>England</F_G_ORIGIN>
+<F_G_SUPPLIER>Pauls Malt</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>34.5177665</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>10.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>8.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Dry, light biscuit flavour with slight coffee undertones.
+
+We produce this malt at our Pauls Malt Ltd. plant in Knapton, North Yorkshire, UK. Amber malt is a more toasted form of pale malt, with green malt being roasted at temperatures of 150&ndash;160&deg;C.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>490</_PERMID_>
+<_MOD_>2023-05-31</_MOD_>
+<F_G_NAME>Deep Diver Dark Crystal Malt Pauls Malt</F_G_NAME>
+<F_G_ORIGIN>England</F_G_ORIGIN>
+<F_G_SUPPLIER>Pauls Malt</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>114.2131980</F_G_COLOR>
+<F_G_YIELD>76.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>For stronger roasted rounded bittering taste, and deeper colour.
+
+We produce this malt at our Pauls Malt Ltd. plant in Knapton, North Yorkshire, UK. Malting Barley with a high germinative energy and low nitrogen, that has undergone steeping and germination, is stewed in a roasting drum, where the endosperm liquefies into a sugary solution and crystallizes during kilning to a glassy sugar. It gives an amber to red hue in higher proportions. Rich in reducing sugars, it provides delicious caramel sweet flavours, additional body, and flavour stability.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>484</_PERMID_>
+<_MOD_>2023-05-31</_MOD_>
+<F_G_NAME>Keep Flying Maris Otter Pauls Malt</F_G_NAME>
+<F_G_ORIGIN>England</F_G_ORIGIN>
+<F_G_SUPPLIER>Pauls Malt</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.5380711</F_G_COLOR>
+<F_G_YIELD>81.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.7000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>89.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>100% British Maris Otter barley specifically tailored by our maltsters for the needs of the craft brewer. Smaller designated craft malt batches are malted in our Boby Malt house in Bury St Edmunds, UK  to achieve a unique Maris flavour with a deeper colour and sweet biscuit flavour.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>488</_PERMID_>
+<_MOD_>2023-05-31</_MOD_>
+<F_G_NAME>Lucky Squid Light Crystal Malt Pauls Malt</F_G_NAME>
+<F_G_ORIGIN>England</F_G_ORIGIN>
+<F_G_SUPPLIER>Pauls Malt</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>60.9137056</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Drum-roasted caramel malt brings balance to beer profile, fullness and ruby hues in color.
+
+We produce this malt at our Pauls Malt Ltd. plant in Knapton, North Yorkshire, UK. Malting Barley with a high germinative energy and low nitrogen, that has undergone steeping and germination, is stewed in a roasting drum, where the endosperm liquefies into a sugary solution and crystallizes during kilning to a glassy sugar.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>489</_PERMID_>
+<_MOD_>2023-05-31</_MOD_>
+<F_G_NAME>Mark 5 Medium Crystal Pauls Malt</F_G_NAME>
+<F_G_ORIGIN>England</F_G_ORIGIN>
+<F_G_SUPPLIER>Pauls Malt</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>86.2944162</F_G_COLOR>
+<F_G_YIELD>76.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Less sweet than light crystal, with stronger roasted taste.
+
+We produce this malt at our Pauls Malt Ltd. plant in Knapton, North Yorkshire, UK. Malting Barley with a high germinative energy and low nitrogen, that has undergone steeping and germination, is stewed in a roasting drum, where the endosperm liquefies into a sugary solution and crystallizes during kilning to a glassy sugar. It gives a an amber to red hue in higher proportions. Rich in reducing sugars, it provides delicious caramel sweet flavours, additional body, and flavour stability.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>486</_PERMID_>
+<_MOD_>2023-05-31</_MOD_>
+<F_G_NAME>Miserable Fish Melanoidin Malt Pauls Malt</F_G_NAME>
+<F_G_ORIGIN>England</F_G_ORIGIN>
+<F_G_SUPPLIER>Pauls Malt</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>22.8426396</F_G_COLOR>
+<F_G_YIELD>78.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.7000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>50.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.5000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>60.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Dark, aroma-rich malts with deep nutty, malty and biscuit flavours.
+
+We produce this malt at Bury St Edmunds in the UK. Melanoidin Malt is made with much the same process as well modified Ale malt with some colour formation in germination due to extended recirculation while kilning will be at higher temperatures for flavour and colour development.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>493</_PERMID_>
+<_MOD_>2023-05-31</_MOD_>
+<F_G_NAME>Reliable Lighthouse Chocolate Malt Pauls Malt</F_G_NAME>
+<F_G_ORIGIN>England</F_G_ORIGIN>
+<F_G_SUPPLIER>Pauls Malt</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>456.8527919</F_G_COLOR>
+<F_G_YIELD>74.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>12.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>
+Bitter coco-like accents with coffee undertones.
+
+We produce this malt at our Pauls Malt Ltd. plant in Knapton, North Yorkshire, UK. Light chocolate malt is produced by roasting kiln dried malt to temperatures of up to 220&deg;C. Water is used to extend the roasting time and for quenching and cooling at the end of a roast to prevent combustion.
+
+Provides colour to beer. Depending on the quantity added, it can produce a deep red hue or a rich dark black. A dry biscuit with roasted coco bean flavour.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>492</_PERMID_>
+<_MOD_>2023-05-31</_MOD_>
+<F_G_NAME>Reliable Lighthouse Light Chocolate Malt Pauls Malt</F_G_NAME>
+<F_G_ORIGIN>England</F_G_ORIGIN>
+<F_G_SUPPLIER>Pauls Malt</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>253.8071066</F_G_COLOR>
+<F_G_YIELD>74.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>12.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>More bitter, honey-like accents than caramalt, with coffee, coco- like tones.
+
+We produce this malt at our Pauls Malt Ltd. plant in Knapton, North Yorkshire, UK. Light chocolate malt is produced by roasting kiln dried malt to temperatures of up to 220&deg;C. Water is used to extend the roasting time and for quenching and cooling at the end of a roast to prevent combustion. Shorter roasting time to regular chocolate.
+
+Lightly roasted, provides colour to beer. Depending on the quantity added, it can produce a deep red hue or a rich dark black. A dry biscuit with roasted coco bean flavour.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>491</_PERMID_>
+<_MOD_>2023-05-31</_MOD_>
+<F_G_NAME>The Shell Shocker Extra Dark Crystal Malt Pauls Malt</F_G_NAME>
+<F_G_ORIGIN>England</F_G_ORIGIN>
+<F_G_SUPPLIER>Pauls Malt</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>157.3604061</F_G_COLOR>
+<F_G_YIELD>72.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>We produce this malt at our Pauls Malt Ltd. plant in Knapton, North Yorkshire, UK. Malting Barley with a high germinative energy and low nitrogen, that has undergone steeping and germination, is stewed in a roasting drum, where the endosperm liquefies into a sugary solution and crystallizes during kilning to a glassy sugar.
+
+The Shell Shocker imparts a deep ruby brown hue. Rich in reducing sugars, it provides a heavy dark caramel taste, additional body, and flavour stability. Subtle notes of burnt sugar and raisin can be detected. </F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1250000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+<TxLog>0</TxLog>
+<PermCount>0</PermCount>
+<TxCount>0</TxCount>
+<TxTable>2225</TxTable>
+<TxPath></TxPath>
+</Selections>

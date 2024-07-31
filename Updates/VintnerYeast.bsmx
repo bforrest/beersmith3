@@ -1,0 +1,299 @@
+<Selections><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<Name>Selections</Name>
+<Type>7426</Type>
+<Dirty>1</Dirty>
+<Owndata>0</Owndata>
+<TID>1</TID>
+<Size>9</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Vintner&#39;s AW4</F_Y_NAME>
+<F_Y_LAB>Vintner&#39;s Harvest</F_Y_LAB>
+<F_Y_PRODUCT_ID>AW4</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>14.5000000</F_Y_TOLERANCE>
+<F_Y_PRICE>5.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2018-04-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2018-04-20</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>57.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>86.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2018-04-20</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Germanic aromatic white wines.</F_Y_BEST_FOR>
+<F_Y_NOTES>AW4 is noted for developing powerfully fragrant, full spice aromatic wines and is a perfect match for Gewurztraminer and also recommended for Sauvignon and Semillon where the Oenologist requires a positive aromatic esters contribution from the yeast. 8g package. </F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Vintner&#39;s BV7</F_Y_NAME>
+<F_Y_LAB>Vintner&#39;s Harvest</F_Y_LAB>
+<F_Y_PRODUCT_ID>BV7</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>13.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>5.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2018-04-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2018-04-20</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>86.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2018-04-20</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Ideal for full bodied, full flavoured dry and sweet white wines.</F_Y_BEST_FOR>
+<F_Y_NOTES>BV7 will both preserve and enhance the grape variety and terroir, promoting excellent flavour complexity, good wine structure and balance but especially FULL AROMATIC FLAVOUR. To appreciate the impact of BV7, split a chardonnay must, fermenting half with CL23 and the remainder with BV7 &ndash; you will be amazed at the impact of the yeast strain upon fruit concentration. </F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Vintner&#39;s CL23</F_Y_NAME>
+<F_Y_LAB>Vintner&#39;s Harvest</F_Y_LAB>
+<F_Y_PRODUCT_ID>CL23</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>18.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>5.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2018-04-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2018-04-20</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>46.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>86.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2018-04-20</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Ideal for crisp, fresh dry white/blush and all sparkling wines. Also the best strain for high alcohol tolerance.</F_Y_BEST_FOR>
+<F_Y_NOTES>CL23 produces very low levels of fusel oils and other congener compounds during fermentation and so does not contribute much to wine flavour or aroma and can therefore be considered to be a particularly neutral / clean fermenter. However CL23 does contribute significantly to the wines structure and ferments out sugars completely allowing for the driest of wines to be made.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Vintner&#39;s CR51</F_Y_NAME>
+<F_Y_LAB>Vintner&#39;s Harvest</F_Y_LAB>
+<F_Y_PRODUCT_ID>CR51</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>13.5000000</F_Y_TOLERANCE>
+<F_Y_PRICE>5.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2018-04-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2018-04-20</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>72.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>86.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2018-04-20</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Perfect for light, fruity red wines for early consumption.
+</F_Y_BEST_FOR>
+<F_Y_NOTES>CR51 will enhance ripe berry fruit flavours in light and fruity red wines and introduce a velvet texture perfect for Valpolicella and especially for Beaujolais style wines. This strain has an almost unique ability to confer a smooth even &lsquo;silky&rsquo; quality to the wine, perfect for early consumption young reds.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Vintner&#39;s CY17</F_Y_NAME>
+<F_Y_LAB>Vintner&#39;s Harvest</F_Y_LAB>
+<F_Y_PRODUCT_ID>CY17</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>5.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2018-04-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2018-04-20</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>72.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>78.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2018-04-20</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Saccharomyces Cerevisiae- For sweet white/blush and dessert wines. Sweet sparkling wines.</F_Y_BEST_FOR>
+<F_Y_NOTES>This is a slow fermenter compared to all other strains in the Vintner&rsquo;s Harvest range, typically taking up to 21 days to ferment table wines and up to 35 days for dessert wines. CY17 prefers a constant temperature in the 22 &ndash; 26C (72 -78F) range. </F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Vintner&#39;s MA33</F_Y_NAME>
+<F_Y_LAB>Vintner&#39;s Harvest</F_Y_LAB>
+<F_Y_PRODUCT_ID>MA33</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>14.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>5.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2018-04-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2018-04-20</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>80.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2018-04-20</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Acid reducing strain excellent for fruity white &amp; blush country wines especially where residual sugars are desired.</F_Y_BEST_FOR>
+<F_Y_NOTES>MA33 has the ability to metabolize between 30 and 35% of malic acid making this strain the perfect choice for country fruits which are naturally high in acid. Reducing malic acid will soften the wine and give a vin nouveau character for early consumption with a balanced palate.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Vintner&#39;s R56</F_Y_NAME>
+<F_Y_LAB>Vintner&#39;s Harvest</F_Y_LAB>
+<F_Y_PRODUCT_ID>R56</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>13.5000000</F_Y_TOLERANCE>
+<F_Y_PRICE>5.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2018-04-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2018-04-20</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>72.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>86.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2018-04-20</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Ideally suited for rich, full bodied red wines with exceptional flavour complexity.</F_Y_BEST_FOR>
+<F_Y_NOTES>Noted for exceptional depth and flavour complexity, R56 exhibits complex aromatics during fermentation conferring an old world quality which one might only expect from natural flora multiple strain fermentations.  Unusually for complex aromatic strains, R56 still respects the varietal character of the fruit and confers good structure and balance. R56 is also a high glycerol producing strain.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Vintner&#39;s SN9</F_Y_NAME>
+<F_Y_LAB>Vintner&#39;s Harvest</F_Y_LAB>
+<F_Y_PRODUCT_ID>SN9</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>18.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>5.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2018-04-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2018-04-20</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>50.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>78.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2018-04-20</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Very good all round strain, best choice for high alcohol and fortified wines but also excellent for most country wines, sweet sparkling wines and ciders.</F_Y_BEST_FOR>
+<F_Y_NOTES>If you only had one wine yeast strain, this would be the strain because whilst being relatively neutral in character SN9 does introduce excellent weight and structure no matter the must or fruit and produces a congener profile that always compliments the wine.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Vintner&#39;s VR21</F_Y_NAME>
+<F_Y_LAB>Vintner&#39;s Harvest</F_Y_LAB>
+<F_Y_PRODUCT_ID>VR21</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>5.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2018-04-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2018-04-20</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>86.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2018-04-20</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Exceptional strain for full fruit varietal and country red wines promoting good structure, balance and color.</F_Y_BEST_FOR>
+<F_Y_NOTES>The majority of yeast strains strip out fruit flavor and color from the must, not so with VR21 which is particularly noted for preserving and retaining the natural fruit characteristics of the grape / country fruit and enhancing palate length. VR21 is a relatively neutral strain producing subtle levels of aroma and flavor compounds, allowing full expression of varietal / country characteristics whilst enhancing color, wine structure and balance. </F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+<TxLog>0</TxLog>
+<PermCount>0</PermCount>
+<TxCount>0</TxCount>
+<TxTable>0</TxTable>
+<TxPath></TxPath>
+</Selections>

@@ -1,0 +1,3140 @@
+<Selections><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<Name>Selections</Name>
+<Type>7406</Type>
+<Dirty>0</Dirty>
+<Owndata>0</Owndata>
+<TID>100</TID>
+<Size>88</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>American Honey Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>25.0000000</F_G_COLOR>
+<F_G_YIELD>82.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Smooth, clean, honey, sweet bread, biscuit
+Color: Subtle amber, coppery with some orange hues
+This is a traditional melanoidin style malt with a complex flavor. This custom&#8208;crafted malt lends sweet bakery flavors that increase in complexity with higher usage rates. With lower inclusion, you can expect subtle honey and bread flavors. At higher usage, expect complex bakery flavors ranging from honey and graham cracker to biscuit and brown sugar.
+It can be used in a wide variety of beer styles from light lagers &amp; ales to malt-forward beers like dark lagers, red, and Scottish ales.
+
+Usage Levels / Beer Styles
+1-5% To add honey &amp; sweet bread flavors in light beers
+5-10% Contributes complex honey, graham cracker &amp; malty flavors in ales &amp; dark beers
+10-20% Delivers prominent warming bakery-like flavors such as biscuit, honey &amp; brown sugar</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Aromatic Munich Malt 20L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>20.0000000</F_G_COLOR>
+<F_G_YIELD>79.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>2.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>45.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>50.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Very smooth, clean, slightly sweet, rich intense malty
+Color: Deep golden with orange hues
+This is a European-style dark Munich Malt with clean, intensely malty flavor. It works great for any beer needing a maltier flavor or aroma.
+Usage Levels / Beer Styles
+5&#8208;10% Any style needing an enhanced malty flavor and aroma
+Up to 50% Bock/Doppelbock style beers for an exaggerated maltiness</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>234</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Black Barley (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>500.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>7.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Roasted, coffee, burnt
+Color: Deep brown
+This malt provides color and rich, sharp flavor which is a characteristic in Stouts and some Porters. It may be used with Black Malt to brew a Stout with more color and less intense Roasted Barley flavor notes. You can use Chocolate Malt or Black Malt in combination with Black Barley to obtain desired color.
+Usage Levels / Beer Styles
+3&#8208;7 % Contributes coffee flavor to Porter and Stout
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>235</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Black Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>500.0000000</F_G_COLOR>
+<F_G_YIELD>71.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Dry Roasted, Sharp to neutral
+Color: Dark brown to black
+This malt is often used to provide color without overpowering flavor that is characteristic of European-style dark beers. It may be used with or without Roasted Barley to brew a Stout with more color and less intense Roasted Barley flavor notes, and it may be used with Chocolate Malt to produce a Porter with less pronounced chocolate flavor notes.
+Usage Levels / Beer Styles
+1-3% All styles for color with little or no flavor
+1-10% Porter and Stout</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Blackprinz Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>500.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Subtle, smooth, no bitter, astringent, dry flavors or aftertaste, very delicate, clean flavor, mild roasted malty flavor
+Color: Dark brown to black
+Usage Levels:
+1-2% Minor color adjustment with little to no flavor impact in lighter colored lagers and ales
+2-5% Adds color with subtle, smooth flavor
+5-10% Use in larger quantities for color plus mild roasted malty flavor
+
+Use in Black IPAs, Black Lagers, Black Ales, Schwarzbiers and other beers for deep, rich color with only hints of subtle roasted flavor, and for color adjustment in any beer style.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Blonde Roastoat Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>6.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>30.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Light roasted, mild sweetness
+Color: Contributes golden to dark yellow hues
+This malt is a highly unique specialty malted and roasted oat with subtle flavors and mouthfeel. Typical styles of beer this malt can be used for are Stout, Scotch Ale, Brown Ale, NEIPA, or any beer that benefits from enhanced mouthfeel and a toasty, oaty flavor.
+
+Usage Levels / Beer Styles
+10% Provides a light blonde hue nutty and slight toast aroma with light notes of breakfast cereal
+20% Offers a blonde hue slight roasted oat aroma followed closely by a delicate toasty malt character with a creamy mouthfeel
+30% Contributes a golden blonde hue, warm toasty oat aroma dominates and is balanced by a pleasant roasted character with a full viscous body</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0783750</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>282</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Bonlander Munich 10L Organic (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>10.0000000</F_G_COLOR>
+<F_G_YIELD>78.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.3000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>60.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>50.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Clean, slightly sweet, rich malty
+Color: Golden amber leaning towards orange hues
+This is an organic European-style Munich Malt with a clean, malty flavor. It works great for any beer that benefits from enhanced malty flavor.
+Usage Levels / Beer Styles
+10&#8208;20% Any beer that benefits from enhanced malty flavor
+Up to 50% Bock&#8208;style beers</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>DME Sparklinf Amber (Briess)</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>237</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Bonlander Munich Malt 10L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>10.0000000</F_G_COLOR>
+<F_G_YIELD>78.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.3000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>60.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>50.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Clean, lightly sweet, rich malty
+Color: Golden amber leaning towards orange hues
+Sufficient enzymes for self-conversion
+Smooth yet pronounced malty flavor plus sweetness
+Great in Bock beers
+Usage Levels / Beer Styles
+10&#8208;20% Any beer that benefits from enhanced malty flavor
+Up to 50% Bock&#8208;style beers</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>DME Sparklinf Amber (Briess)</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>233</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Brewers Barley Flakes (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.8000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>8.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>12.5000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>25.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Slightly grainy
+Color: Off-white to light tan
+Use as an adjunct in all-grain brews to produce a lighter colored finished beer without lowering the original gravity. The flakes can be incorporated directly into your mash with other grains because they have a large surface area and are pre-cooked so they hydrate and disintegrate quickly. They can be used in place of corn as an adjunct to eliminate corn flavor in the finished beer.
+Usage Levels / Applications
+10-25% Of total grist to produce a light colored, mild flavored, dry beer</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>288</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Brewers Brown Rice Flakes (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.0000000</F_G_COLOR>
+<F_G_YIELD>65.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>7.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>40.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Mild nutty
+Color: Light cream to tan
+These rice flakes are made specifically for brewing, developing characteristics necessary for easy and efficient use in a brewhouse. They have a large surface area and are pre-cooked, so they hydrate and disintegrate quickly and offer a light, clean, and crisp character to the finished beer.
+Usage Levels / Applications
+Use up to 40% as a cereal adjunct</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>238</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Brewers Malt 2-Row (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.1000000</F_G_COLOR>
+<F_G_YIELD>81.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.2000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>140.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Clean, sweet, mild malty
+Color: Contributes light straw color
+A great base malt for all beer styles. It is produced exclusively from high-quality 2-Row North American malting barley grown in premium U.S. barley growing regions.
+Usage Levels / Beer Styles
+Up to 100% of the base malt of any beer
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>DME Golden Light (Briess)</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Brewers Malt Organic (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.1000000</F_G_COLOR>
+<F_G_YIELD>81.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.2000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>140.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Clean, sweet, mild malty
+Color: Contributes light straw color
+A great organic base malt for all beer styles. It is produced exclusively from high-quality 2-Row North American malting barley grown in premium U.S. barley growing regions.
+Usage Levels / Beer Styles
+Up to 100% of the base malt of any beer
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>284</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Brewers Oat Flakes (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.5000000</F_G_COLOR>
+<F_G_YIELD>70.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>8.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>14.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>25.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Clean oaty
+Color: Tan
+These oat flakes add a smooth, rich enjoyable texture to stouts and have a very distinctive &ldquo;sticky&rdquo; mouthfeel which is noticeable even when used in small amounts. They have a large surface area and are pre-cooked, so they hydrate and disintegrate quickly.
+Usage Levels / Applications
+5-25% Of total grist for an Oatmeal Stout. Use a small percentage in Belgian Wit beers</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>296</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Brewers Red Wheat Flakes (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.0000000</F_G_COLOR>
+<F_G_YIELD>70.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>7.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>40.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Slightly nutty
+Color: Light to Medium Brown
+These wheat flakes are great in the production of Belgian Wit beers and increase foam stability. They have a large surface area and are pre-cooked, so they hydrate and disintegrate quickly.
+Usage Levels / Applications
+0.5 &ndash; 1% Add to a standard brew to increase foam stability
+Up to 40% Cereal adjunct in the total grist</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>291</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Brewers Rye Flakes (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.0000000</F_G_COLOR>
+<F_G_YIELD>71.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>7.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>40.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Distinctive rye
+Color: Light tan
+Use these rye flakes to contribute a very clean, distinctive rye flavor. They have a large surface area and are pre-cooked, so they hydrate and disintegrate quickly. They are made from choice rye that is guaranteed ergot-free.
+Usage Levels / Applications
+5-10% Start here and increase in increments of 5% because of the concentrated flavor of Rye Flakes
+Up to 40% As a cereal adjunct in the total grist to create Rye beer</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Brewers Torrified Wheat (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.5000000</F_G_COLOR>
+<F_G_YIELD>78.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>7.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>40.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Slightly nutty
+Color: Light to Medium Brown
+The torrified wheat has been heat-treated to break the cellular structure, allowing more rapid hydration and malt enzymes to more completely attack the starches and protein. They can be used in place of raw wheat when making Belgian-style White and Wit beers. Advantages over raw wheat include normal conversion time and higher yield. To decrease lautering time, include a small amount of rice hulls.
+Usage Levels / Applications
+Up to 40%	Of the total grist bill</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>265</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Brewers Yellow Corn Flakes Non-GMO (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>0.8000000</F_G_COLOR>
+<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>7.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>40.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Fresh corn flavor
+Color: Medium Yellow
+Use to produce a beer with mild, less malty flavor and a drier, more crisp beer. These can be used as a cereal adjunct and can be added to the mash without first using a cereal cooker. The pregelatinized flakes will give a higher yield and a more trouble-free brew than conventional flaked corn. You can add them directly to the mash with the malt without having to mill.
+Usage Levels / Applications
+Up to 40%	As a cereal adjunct in the total grist
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Carabrown Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>55.0000000</F_G_COLOR>
+<F_G_YIELD>79.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>2.2000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>25.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Smooth, slightly sweet malty, lightly toasted biscuity, nutty, graham cracker, clean dry finish
+Color: Light Brown to orange hues
+This malt was developed on the light side of the brown malt style in order to retain some residual sweetness while still delivering an assortment of lightly toasted flavors. The overall character is an exceptionally smooth and clean tasting malt that begins while a slightly sweet malty flavor before delivering its payload of toasted flavors, then finishing clean and somewhat dry. This malt is great in bitter, pale, mild, and Belgian Ales, wheat beers, Bock, Oktoberfest, and Scotch Ales.
+Usage Levels / Beer Styles
+5-10% Subtle sweet malty, lightly toasted flavors and light brown/orange color contributions
+10-15% Smooth, more accentuated toasty, biscuity, nutty, graham cracker flavors and slightly dry finish
+15-25% More pronounced yet smooth toasted, biscuity, nutty, graham cracker flavors and slightly dry finish</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caracrystal Wheat Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>55.0000000</F_G_COLOR>
+<F_G_YIELD>78.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>25.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Sweet, smooth, malty, bready, subtle caramel, dark toast, exceptionally clean finish
+Color: Orange to mahogany hues
+This wheat malt is recommended for all beer styles that use caramel malts such as IPAs, Pale Ales, low alcohol beers, wheat beers, Bock beers, and session beers where a touch of subtle caramel plus smooth dark toast flavor is beneficial. You can use in any beer style to add sweetness and develop smooth or complex flavors. This malt also works great for improved body, foam and foam retention, flavor, and color.
+Usage Levels / Beer Styles
+5-10% Subtle sweetness and flavor with pale orange tones
+10-15% Mild sweetness and flavor plus orange tones
+15-25% More pronounced flavor with dark orange to mahogany tones
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>240</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Malt - 10L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>10.0000000</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>7.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Candy-like sweetness, mild caramel
+Color: Contributes golden hues
+This is a drum roasted crystallized malt that improves foam, enhances viscosity, and contributes golden hues with a candy-like sweetness. Our Caramel Malts are roaster produced, making them the
+Usage Levels / Beer Styles
+3-7% For balance in Pilsners
+5-10% Lagers ranging from California Common, Vienna, Bock to Dark Lagers
+5-15% Variety of ales including Pale Ales and bitter IPAs, through dark ales like Porters and Stouts fullest flavored and best-performing Caramel Malts.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>242</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Malt - 120L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>120.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Pronounced caramel, burnt sugar, raisiny, prunes
+Color: Contributes red to deep red hues
+This is a drum roasted crystallized malt that improves foam, enhances viscosity, and contributes golden hues with a dried fruit, candy-like sweetness. Our Caramel Malts are roaster produced, making them the fullest flavored and best-performing Caramel Malts.
+Usage Levels / Beer Styles
+1-3% For balance in Pilsners
+5-10% In lagers ranging from Vienna and Oktoberfest to Dark Lagers
+5-10% In a variety of ales including Pale Ales, bitter IPSs to Porters and Stouts and Barley Wine
+10-15% In various styles including Doppelbocks and Barley Wine</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>245</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Malt - 20L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>20.0000000</F_G_COLOR>
+<F_G_YIELD>76.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Candy-like sweetness, mild caramel
+Color: Contributes golden hues
+This is a drum roasted crystallized malt that improves foam, enhances viscosity, and contributes golden hues with a candy-like sweetness. Our Caramel Malts are roaster produced, making them the fullest flavored and best-performing Caramel Malts.
+Usage Levels / Beer Styles
+3-7% For balance in Pilsners
+5-10% Lagers ranging from California Common, Vienna, Bock to Dark Lagers
+5-15% Variety of ales including Pale Ales and bitter IPAs, through dark ales like Porters and Stouts</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>246</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Malt - 30L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>30.0000000</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Sweet, caramel, toffee
+Color: Contributes golden hues
+This is a drum roasted crystallized malt that improves foam, enhances viscosity, and contributes golden hues with a candy-like sweetness. Our Caramel Malts are roaster produced, making them the fullest flavored and best-performing Caramel Malts.
+Usage Levels / Beer Styles
+3-7% For balance in Pilsners
+5-10% Lagers ranging from California Common, Vienna, Bock to Dark Lagers
+5-15% Variety of ales including Pale Ales and bitter IPAs, through dark ales like Porters and Stouts</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>248</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Malt - 40L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>40.0000000</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Sweet, caramel, toffee
+Color: Contributes golden hues
+This is a drum roasted crystallized malt that improves foam, enhances viscosity, and contributes golden hues with a candy-like sweetness. Our Caramel Malts are roaster produced, making them the fullest flavored and best-performing Caramel Malts.
+Usage Levels / Beer Styles
+3-7% For balance in Pilsners
+5-10% Lagers ranging from California Common, Vienna, Bock to Dark Lagers
+5-15% Variety of ales including Pale Ales and bitter IPAs, through dark ales like Porters and Stouts</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>251</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Malt - 60L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>60.0000000</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Sweet, pronounced caramel
+Color: Contributes golden to red hues
+This is a drum roasted crystallized malt that improves foam, enhances viscosity, and contributes golden hues with a candy-like sweetness. Our Caramel Malts are roaster produced, making them the fullest flavored and best-performing Caramel Malts.
+Usage Levels / Beer Styles
+1-3% For balance in Pilsners
+5-10% In lagers ranging from Vienna and Oktoberfest to Dark Lagers
+5-10% In a variety of ales including Pale Ales, bitter IPSs to Porters and Stouts and Barley Wine
+10-15% In various styles including Doppelbocks and Barley Wine</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>254</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Malt - 80L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>80.0000000</F_G_COLOR>
+<F_G_YIELD>76.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Pronounced caramel, slight burnt sugar, raisiny
+Color: Contributes red to deep red hues
+This is a drum roasted crystallized malt that improves foam, enhances viscosity, and contributes golden hues with a dried fruit, candy-like sweetness. Our Caramel Malts are roaster produced, making them the fullest flavored and best performing Caramel Malts.
+Usage Levels / Beer Styles
+1-3% For balance in Pilsners
+5-10% In lagers ranging from Vienna and Oktoberfest to Dark Lagers
+5-10% In a variety of ales including Pale Ales, bitter IPSs to Porters and Stouts and Barley Wine
+10-15% In various styles including Doppelbocks and Barley Wine</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>255</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Malt - 90L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>90.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Pronounced caramel, burnt sugar, raisiny, prunes
+Color: 
+This is a drum roasted crystallized malt that improves foam, enhances viscosity, and contributes golden hues with a dried fruit, candy-like sweetness. Our Caramel Malts are roaster produced, making them the fullest flavored and best performing Caramel Malts.
+
+Usage Levels / Beer Styles
+1-3% For balance in Pilsners
+5-10% In lagers ranging from Vienna and Oktoberfest to Dark Lagers
+5-10% In a variety of ales including Pale Ales, bitter IPSs to Porters and Stouts and Barley Wine
+10-15% In various styles including Doppelbocks and Barley Wine</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Malt 120L Organic (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>120.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Pronounced caramel, burnt sugar, raisiny, prunes
+Color: Contributes red to deep red hues
+This is an organic drum roasted crystallized malt that improves foam, enhances viscosity, and contributes golden hues with a dried fruit, candy-like sweetness. Our Caramel Malts are roaster produced, making them the fullest flavored and best performing Caramel Malts
+Usage Levels / Beer Styles
+1-3% For balance in Pilsners
+5-10% In lagers ranging from Vienna and Oktoberfest to Dark Lagers
+5-10% In a variety of ales including Pale Ales, bitter IPSs to Porters and Stouts and Barley Wine
+10-15% In various styles including Doppelbocks and Barley Wine</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Malt 20L Organic (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>20.0000000</F_G_COLOR>
+<F_G_YIELD>76.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Candy-like sweetness, mild caramel
+Color: Contributes golden hues
+This is an organic drum roasted crystallized malt that improves foam, enhances viscosity, and contributes golden hues with a candy-like sweetness. Our Caramel Malts are roaster produced, making them the fullest flavored and best-performing Caramel Malts.
+Usage Levels / Beer Styles
+3-7% For balance in Pilsners
+5-10% Lagers ranging from California Common, Vienna, Bock to Dark Lagers
+5-15% Variety of ales including Pale Ales and bitter IPAs, through dark ales like Porters and Stouts</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Malt Organic 60L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>60.0000000</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Sweet, pronounced caramel
+Color: Contributes golden to red hues
+This is an organic drum roasted crystallized malt that improves foam, enhances viscosity, and contributes golden hues with a candy-like sweetness. Our Caramel Malts are roaster produced, making them the fullest flavored and best-performing Caramel Malts.
+Usage Levels / Beer Styles
+1-3% For balance in Pilsners
+5-10% In lagers ranging from Vienna and Oktoberfest to Dark Lagers
+5-10% In a variety of ales including Pale Ales, bitter IPSs to Porters and Stouts and Barley Wine
+10-15% In various styles including Doppelbocks and Barley Wine</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>256</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Munich 60L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>60.0000000</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Caramel, roasted, malty
+Color: Amber to red hues
+This malt has flavors reminiscent of traditional kiln made Caramels. It has a unique combination of bready, toasty, and biscuit flavors, mixed with sweet caramel notes. It is frequently used in IPA, Pale Ale, Oktoberfest, and Porters.
+Usage Levels / Beer Styles
+3-10% Excellent for added complexity in IPAs, Ambers, ESB, and any other dark beer styles</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Rye Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>60.0000000</F_G_COLOR>
+<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Touches of caramel and bread crust flavors that complement the spicy character of rye
+Color: Leans toward burnt orange and brown
+This is a drum roasted crystallized rye malt that improves foam, enhances viscosity, and contributes golden hues with a candy-like sweetness and the spicy character of rye. You can use this with Briess Rye Malt or Briess Brewers Rye Flakes for more rye flavor, and to complement the smooth and subtle, yet complex, flavor of Briess Caramel Rye Malt and add depth and subtle flavor to many styles of beer.
+Usage Levels / Beer Styles
+1-5% Adds touches of depth to lighter-flavor beers like Pilsner, Oktoberfest, and Bock
+5-10% Adds complexity to malt-forward beers
+10-20% Adds an intriguing softness and slight rye-like character. Use in all rye-style beers for toast flavor and color as well as in Scottish Ales, Doppelbock, Dunkels, Stouts, Porters, and other medium to dark ales and lagers</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>257</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Caramel Vienne 20L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>20.0000000</F_G_COLOR>
+<F_G_YIELD>78.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Soft toffee, caramel, malty
+Color: Golden hues
+This malt adds flavors unique to Vienna-style lagers and Belgian-style Abbey Ales. It has flavors reminiscent of traditional kiln made Caramels with subtle notes of sweet caramel and toffee complimented by sweet malty and bready notes.
+Usage Levels / Beer Styles
+3-10% Frequently used in Vienna-style lagers and Belgian-style Abbey Ales</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>260</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Carapils Copper Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>20.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>30.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Malty, graham cracker, toasty
+Color: Copper to red hues
+This is a very unique dextrin-style malt that adds body, foam retention, and beer stability just like Carapils&reg; Malt, but unlike Carapils&reg; this malt adds flavor and aroma. This malt is devoid of enzymes and can be steeped in hot water or mashed.
+Usage Levels / Beer Styles
+10% Adds copper/orange hues
+20% Imparts reddish color
+30% Delivers color that is solidly a red ale
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>258</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Carapils Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.5000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>5.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: None
+Color: None
+This is a very unique dextrin-style malt that adds body, foam retention, and beer stability without influencing color or aroma. The non-fermentables in Carapils&reg; Malt are advantageous in balancing body and flavor of dark-colored beers. It has the full glassiness of a Caramel Malt, and is devoid of enzymes, and can be steeped in hot water or mashed.
+Usage Levels / Beer Styles
+1-5% To add body and foam stability without influencing color or aroma</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>259</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Carapils Organic Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.5000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>0.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: None
+Color: None
+This is a very unique organic dextrin-style malt that adds body, foam retention, and beer stability without influencing color or aroma. The non-fermentables in Carapils&reg; Organic Malt are advantageous in balancing body and flavor of dark-colored beers. It has the full glassiness of a Caramel Malt, and is devoid of enzymes, and can be steeped in hot water or mashed.
+Usage Levels / Beer Styles
+1-5% To add body and foam stability without influencing color or aroma</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>261</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Chocolate Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>350.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Rich roasted coffee, cocoa
+Color: 
+The chocolate flavor of this malt is complementary when used in higher percentages. It can be used in all beer styles for color adjustment.
+
+Usage Levels / Beer Styles
+1-10% Porters, Stouts, Brown Ales, Dunkel, and other dark beers
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>264</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Chocolate Malt Organic (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>350.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Rich roasted coffee, cocoa
+Color: Brown hues
+The chocolate flavor of this organic malt is complementary when used in higher percentages. It can be used in all beer styles for color adjustment.
+Usage Levels / Beer Styles
+1-10% Porters, Stouts, Brown Ales, Dunkel, and other dark beers
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Clarified Brown Rice Syrup 42DE (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>1</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.0000000</F_G_COLOR>
+<F_G_YIELD>70.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Neutral
+Color: None
+This gluten free, hypoallergenic, non-GMO extract can be used for 100% extract brewing to produce rice beer (sake). It is a concentrated brewers wort made from 100% brown rice and water and provides proteins and amino acids necessary for yeast nutrition, head retention, and body. It adds almost no flavor or color.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>266</_PERMID_>
+<_MOD_>2021-03-01</_MOD_>
+<F_G_NAME>Corn Syrup - Brewers (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>(Briess)</F_G_SUPPLIER>
+<F_G_TYPE>2</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.0000000</F_G_COLOR>
+<F_G_YIELD>83.2000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>0.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Syrup derived from corn with many of the same properties as corn sugar.  May be used to enhance gravity without adding much body or flavor.  Limit percentage in batch to avoid wine/cider flavors.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>268</_PERMID_>
+<_MOD_>2022-12-07</_MOD_>
+<F_G_NAME>DME Golden Light (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>4</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>4.0000000</F_G_COLOR>
+<F_G_YIELD>95.6521739</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Malty
+Color: Free flowing golden powder
+This is a 100% pure malt extract made from 99% base malt,1% Carapils&reg; Malt, and water. It can be used in the production of all extract beer styles and to adjust the color, flavor, and gravity of all-grain beers.
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>DME Maltoferm Black (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>1</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>350.0000000</F_G_COLOR>
+<F_G_YIELD>32.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Neutral at low usage levels
+Color: Free flowing dark brown powder
+This is a 100% pure malt barley extract made from 100% malt and water. It is almost black in color and is well suited as a colorant for beer. It can be used to change beer styles from standard to amber or very dark and can be added in post-fermentation/pre-filtration to finished beer for minor to major color adjustment.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>275</_PERMID_>
+<_MOD_>2022-12-07</_MOD_>
+<F_G_NAME>DME Maltoferm Organic (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>4</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>4.0000000</F_G_COLOR>
+<F_G_YIELD>95.6521739</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Malty
+Color: Free flowing golden powder
+This organic dry extract is a 100% pure malted barley extract made from Briess malt and water. You can use this in the production of all extract beer styles and in all-grain brewing to adjust color, flavor and gravity.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2022-12-07</_MOD_>
+<F_G_NAME>DME Pale Ale (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>4</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>6.0000000</F_G_COLOR>
+<F_G_YIELD>97.8260870</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Rich malt, hints of biscuit and nuts
+Color: Free flowing gold to amber powder
+This is a 100% pure malt barley extract made from 100% Pale Ale Malt and water. It can be used in the production of all extract beer styles and to adjust the color, flavor, and gravity of all-grain beers.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2022-12-07</_MOD_>
+<F_G_NAME>DME Pilsen Light (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>4</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.0000000</F_G_COLOR>
+<F_G_YIELD>97.8260870</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Subtle malty
+Color: Free flowing light golden powder
+This is a 100% pure malt barley extract made from 99% Pilsen Malt, 1% Carapils&reg; Malt, and water. This is the lightest pure malt extract available commercially and produces a very crisp, clear wort. It can be used in the production of all extract beer styles and to adjust the color, flavor, and gravity of all-grain beers.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>269</_PERMID_>
+<_MOD_>2022-12-07</_MOD_>
+<F_G_NAME>DME Sparkling Amber (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>4</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>11.0000000</F_G_COLOR>
+<F_G_YIELD>95.6521739</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Sweet, malty, caramel
+Color: Free flowing amber powder
+This is a 100% pure malt barley extract made from 100% malt and water. Its color is a deep amber and has a robust malt profile that gives the beer a nice caramel flavor note. It can be used in the production of Pale Ales, Red and Amber ales, Munich style beers, Bock and Oktoberfest beers, Scottish ales, and darker beers including Stouts and Porters.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>267</_PERMID_>
+<_MOD_>2022-12-07</_MOD_>
+<F_G_NAME>DME Traditional Dark (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>4</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>30.0000000</F_G_COLOR>
+<F_G_YIELD>95.6521739</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Sweet, intense malty
+Color: Free flowing dark brown powder
+This is a 100% pure malt barley extract made from a blend of 100% malts and water. It can be used in the production of Red and Amber beers, Oktoberfest, Bock beer, Doppelbock, brown ales, and other dark colored beers.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>270</_PERMID_>
+<_MOD_>2022-12-07</_MOD_>
+<F_G_NAME>DME Wheat Bavarian (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>4</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.0000000</F_G_COLOR>
+<F_G_YIELD>97.8260870</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Neutral, malty
+Color: Free flowing light tan powder
+This is a 100% pure malt extract made from 65% Malted Wheat and 35% Malted barley, and water. It can be used in the production of extract wheat beers, and in the production of all-grain beers to adjust color, flavor, and gravity of wheat and other styles of beers.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Dark Chocolate Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>430.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Rich smooth coffee
+Color: Brown hues
+The chocolate flavor of this malt is complementary when used in higher percentages. It can be used in all beer styles for color adjustment.
+Usage Levels / Beer Styles
+1-10% Porters, Stouts, Brown Ales, Dunkel, and other dark beers</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Dark Munich Malt 30L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>30.0000000</F_G_COLOR>
+<F_G_YIELD>78.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.3000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>12.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>50.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Clean, slightly sweet, big rich malty, slight toasty
+Color: Light brown leaning towards ruby brown at higher usage rates
+This is a European-style Munich Malt hybrid with a clean, big malty flavor with slight toasty notes. It works great for any beer that benefits from enhanced malty flavor.
+Usage Levels / Beer Styles
+15% Provides a light brown hue, aromas of caramel, honey, and molasses with notes of biscuit and bread crust
+30% Offers a brown hue, biscuit dominates, followed closely by a delicate blend of breakfast cereal, brown sugar, vanilla, dried fruit, and nutty aromas
+50% Contributes a ruby brown hue, biscuit, brown sugar, and toast dominate, followed strongly by honey, molasses, vanilla, prune, stone fruit, and nutty aromas</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>271</_PERMID_>
+<_MOD_>2021-03-01</_MOD_>
+<F_G_NAME>Dextrose (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>(Briess)</F_G_SUPPLIER>
+<F_G_TYPE>2</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.0000000</F_G_COLOR>
+<F_G_YIELD>99.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>0.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Colorless and sweet
+99% fermentable</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Distillers Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.4000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>250.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>25.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Grainy, grassy, fresh cucumber
+This malt has an exceptionally high alpha-amylase and diastatic power for maximum fermentable yield. It can be used for enzymatic conversion in a variety of distilled spirits.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>272</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Extra Special Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>130.0000000</F_G_COLOR>
+<F_G_YIELD>73.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>2.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Toasted marshmallow, toast, mild coffee, prunes, dry, woody
+Color: Dark red/deep copper
+This is a hybrid drum roasted malt that is made using a proprietary drum roasting process that develops both caramel and dry roasted flavors. It provides richer, more complex flavors in lighter colored and lighter gravity beers that are often associated with darker, high gravity beers like Doppelbocks.
+
+Usage Levels / Beer Styles
+Up to 5% Background notes of toasted marshmallow, toast, mild coffee, prunes, woody
+5 - 10% Red to amber color with pleasant toffee aroma notes. Belgian ales, English ales for complexity, porters
+10 - 15% Develops a much deeper reddish/brown color with fuller malty body and more pronounced raisin/toasty aroma. Typical in Doppelbocks, Irish stouts, and Porters</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>294</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Goldpils Vienna Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.5000000</F_G_COLOR>
+<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>2.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>95.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.5000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Rich malty; hints of biscuity notes; finishes exceptionally clean
+Color: Contributes light golden color
+This is a superb example of a classic Vienna malt. It finishes exceptionally clean and contributes light golden hues and is less modified than Pale Ale Malt and less intensely kilned than Munich Malts. It has a sufficient enzyme level to support the inclusion of even the most demanding specialty malts without extending the brewing cycle.
+
+Usage Levels / Beer Styles
+Up to 100% Vienna and Oktoberfest/Marzen beer styles, Ales and rich, full flavored dark beers
+10% or more All but the lightest beer styles for additional flavor; Especially helpful for developing warm, malty, and light biscuity flavors; High gravity beers like Bock beer</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>DME Sparklinf Amber (Briess)</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>273</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>LME Dark Traditional (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>1</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>30.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Sweet, intense malty
+Color: Dark brown liquid
+This is a 100% pure malt barley extract made from a blend of 100% malts and water. It can be used in the production of Red and Amber beers, Oktoberfest, Bock beer, Doppelbock, brown ales, and other dark colored beers.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>274</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>LME Golden Light (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>1</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>4.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Malty
+Color: Golden liquid
+This is a 100% pure malt extract made from 99% base malt,1% Carapils&reg; Malt, and water. It can be used in the production of all extract beer styles and to adjust the color, flavor, and gravity of all-grain beers.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>LME Maltoferm Black (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>1</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>350.0000000</F_G_COLOR>
+<F_G_YIELD>32.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Neutral at low usage levels
+Color: Dark Brown Liquid
+This is a 100% pure malt barley extract made from 100% malt and water. It is almost black in color and is well suited as a colorant for beer. It can be used to change beer styles from standard to amber or very dark and can be added in post-fermentation/pre-filtration to finished beer for minor to major color adjustment.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>275</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>LME Maltoferm Organic (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>1</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>4.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Malty
+Color: Brown hues
+This organic dry extract is a 100% pure malted barley extract made from Briess malt and water. You can use this in the production of all extract beer styles and in all-grain brewing to adjust color, flavor and gravity.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>LME Munich (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>1</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>8.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Rich malty, biscuity
+Color: Gold to Amber Liquid
+This is a 100% pure malt extract made from 50% base malt, 50% Bonlander&reg; Munich Malt 10L, and water. It produces a very rich, malty, amber-colored extract. It is a European-style Munich Malt characterized by clean, slightly sweet, rich malty flavor and contributes golden amber leaning toward orange hues. It can be used in the production of all extract beer styles and to adjust color, flavor, and gravity of all grain beers.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>LME Pale Ale (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>1</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>6.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Rich malt, hints of biscuit and nuts
+Color: Gold to amber liquid
+This is a 100% pure malt barley extract made from 100% Pale Ale Malt and water. It can be used in the production of all extract beer styles and to adjust the color, flavor, and gravity of all-grain beers.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>276</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>LME Pilsen Light (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>1</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.0000000</F_G_COLOR>
+<F_G_YIELD>76.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Subtle malty
+Color: Translucent very light golden liquid
+This is a 100% pure malt barley extract made from 99% Pilsen Malt, 1% Carapils&reg; Malt, and water. This is the lightest pure malt extract available commercially and produces a very crisp, clear wort. It can be used in the production of all extract beer styles and to adjust the color, flavor, and gravity of all-grain beers.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>277</_PERMID_>
+<_MOD_>2021-03-01</_MOD_>
+<F_G_NAME>LME Porter (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>1</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>135.0000000</F_G_COLOR>
+<F_G_YIELD>81.7000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Briess Base Malt, Wheat Malt, Caramel 60L, Chocolate Malt, Roasted Barley
+Sweet Malty, Chocolate
+72% Fermentability</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>278</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>LME Sparkling Amber Liquid (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>1</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>11.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Sweet, malty, caramel
+Color: Amber to brown liquid
+This is a 100% pure malt barley extract made from 100% malt and water. Its color is a deep amber and has a robust malt profile that gives the beer a nice caramel flavor note. It can be used in the production of Pale Ales, Red and Amber ales, Munich style beers, Bock and Oktoberfest beers, Scottish ales, and darker beers including Stouts and Porters.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>279</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>LME Wheat Bavarian (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>1</F_G_TYPE>
+<F_G_USE>2</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Neutral, malty
+Color: Gold to amber liquid
+This is a 100% pure malt extract made from 65% Malted Wheat and 35% Malted barley, and water. It can be used in the production of extract wheat beers, and in the production of all-grain beers to adjust color, flavor, and gravity of wheat and other styles of beers.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Midnight Wheat Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>550.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>7.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Subtle, smooth, no bitter, astringent, dry flavors or aftertaste, starts slightly sweet, hints of roasted flavor
+Color: Dark brown to black tones
+It contributes the same color characteristics as Black Malt but without the bitter, astringent, dry flavors or aftertaste. It finishes exceptionally clean and is the smoothest source of black color of any malt. It is excellent in Black IPAs, Schwarzbiers, other dark ales and lagers, and for color adjustment in any beer style.
+Usage Levels / Beer Styles
+1-2% Minor color adjustment with little to no flavor impact in lighter colored lagers and ales
+2-5% Adds color with subtle, very smooth flavor
+5-7% Use in larger quantities for color plus hints of smooth roasted flavor</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>280</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Mild Malt - Ashburne (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>5.3000000</F_G_COLOR>
+<F_G_YIELD>81.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>2.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>65.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>50.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Slightly malty and sweet with a subtle toasty note
+Color: Contributes rich golden hues
+A slightly darker malt with a higher dextrin level than Pale Ale Malt. It lends a higher residual maltiness/mouthfeel. The typical style inclusion would be Mild Ale, Brown Ale, Belgian Ale, and Barley Wine.
+Usage Levels / Beer Styles
+10-25% Any style needing enhanced malty flavor and aroma
+Up to 50% Bock/Doppelbock style beers for an exaggerated maltiness</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Caravienne Malt</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>283</_PERMID_>
+<_MOD_>2021-03-01</_MOD_>
+<F_G_NAME>Munich 20L (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>20.0000000</F_G_COLOR>
+<F_G_YIELD>74.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>3.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>20.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>13.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>FLAVOR: Robust Malty
+COLOR: Golden to Orange Hues
+Adds a pronounced malty flavor without adding non-fermentables or affecting foam.
+Small amounts added to the grist will improve the malty flavor and give a richer color to low gravity brews.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>DME Sparklinf Amber (Briess)</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Odyssey Whiskey Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.9000000</F_G_COLOR>
+<F_G_YIELD>84.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>100.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.1000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Sweet and bready with notes of honey
+Color: Contributes light golden color to wort
+This malt is a single varietal base malt that can be used for all beer styles and single malt whiskey. It has a traditional European malt profile, with moderate enzyme activity, high level of fermentability, and high PSY value. It is ideally suited for single malt whiskey, but is also perfect for Pilsners and light lagers.
+Usage Levels / Beer Styles
+Up to 100% Delivers complex malty &amp; grainy flavors for beer or spirits
+60-90% Use with a variety of specialty malts to create complex and unique flavors in ales or malt whiskey
+40% or more Convert adjuncts such as raw corn, rye, and wheat for light lagers and specialty whiskey</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>285</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Pale Ale Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.5000000</F_G_COLOR>
+<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>85.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Rich malty; hints of biscuit and nuts
+Color: Contributes golden color
+A fully modified, high extract, low protein malt, not just a darker Brewers Malt. The proprietary malting process involves careful monitoring of the kiln drying process and specialized temperature rests that result in the development of its unique flavor.
+Usage Levels / Beer Styles
+Up to 100% Ales (an exception being K&ouml;lsch) and rich, full flavored dark beers
+10% or more All but the lightest beer styles for additional flavor
+10-15% High-gravity beer styles like Bock, more in low-gravity beers</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Sparkling Amber Liquid (Briess)</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>286</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Pilsen Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.2000000</F_G_COLOR>
+<F_G_YIELD>81.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>170.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.3000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Clean, sweet, delicate malty
+Color: Very light color contribution, lightest colored base malt availible
+Exceptionally light-colored base malt that produces a very light colored, clean, crisp wort, and allows the full flavor of specialty malts to shine through. It can be used as a base malt for all beer styles, and is an excellent choice for lagers.
+Usage Levels / Beer Styles
+Up to 100% of the base malt of any beer style needing delicate, malt flavor</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>LME Pilsen Light (Briess)</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>287</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Rice Hulls (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>3</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>0.0000000</F_G_COLOR>
+<F_G_YIELD>0.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>5.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Rice Hulls are a filtering aid that improve the speed of vorlauf and lautering.
+Rice Hulls are particularly effective when brewing high gravity beers with a big grist; beer made with high percentages of specialty malts; and wheat and rye beers.
+Usage Levels / Applications
+Add 2-5%	Directly to the mash before lautering</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>289</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Roasted Barley (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>300.0000000</F_G_COLOR>
+<F_G_YIELD>72.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>7.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Coffee, intense, bitter, dry
+Color: Deep brown
+This malt provides color and rich, sharp flavor which is a characteristic in Stouts and some Porters. It may be used with Black Malt to brew a Stout with more color and less intense Roasted Barley flavor notes. You can use Chocolate Malt or Black Malt in combination with Roasted Barley to obtain desired color.
+Usage Levels / Beer Styles
+3-7 % Contributes coffee flavor to Porter and Stout</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Roasted Barley Organic (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>300.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>7.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Coffee, intense bitter, dry
+Color: Deep brown
+This organic malt provides color and rich, sharp flavor which is a characteristic in Stouts, and some Porters. It may be used with Black Malt to brew a Stout with more color and less intense Roasted Barley flavor notes. You can use Chocolate Malt or Black Malt in combination with Roasted Barley to obtain desired color.
+ Usage Levels / Beer Styles
+3-7% Contributes coffee flavor to Porter and Stout</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>290</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Rye Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.7000000</F_G_COLOR>
+<F_G_YIELD>84.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>105.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>35.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Clean, sweet, mild malty
+Color: Contributes light straw color
+This Rye malt has a unique spicy rye flavor for the production of rye beer. It can help build flavor and develop complexity in many beer styles, from medium flavored lagers to dark ales.
+Usage Levels / Beer Styles
+1-3% Adds dryness and a touch of spicy rye flavor and interest to many beer styles, from medium flavored lagers to dark ales
+5% Rye Pale Ales, Wheat, and Smoked Beers
+10-35% Roggenbier (German Rye Beer), American Rye Beer</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Rye Raw Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.0000000</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>12.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Dry, spicy rye
+Color: Orange to amber hue
+This malt imparts a unique spiciness and full body. It is great for use in Rye beers.
+Usage Levels / Applications
+5-10% Of total grist bill</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Smoked Malt Apple Wood (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>6.0000000</F_G_COLOR>
+<F_G_YIELD>80.5000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>90.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>60.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Intense smoke flavor, smooth, sweet
+Color: Contributes deep amber hues
+This smoked malt is produced using apple wood. It is a unique, enzyme-active specialty malt that contributes an intense smoke, smooth, sweet, smoky flavor.
+Usage Levels / Beer Styles
+5-10% Noticeable smoke character in lighter styles such as Scottish Ales and Oktoberfests
+10-20% Pronounced smoke character in lighter styles like Scottish Ales and Oktoberfests
+30-60% Noticeable to pronounced smoke character in darker styles like Stouts and Porters</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Smoked Malt Cherry Wood (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>5.0000000</F_G_COLOR>
+<F_G_YIELD>80.5000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>90.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>60.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Pronounced smoke, subtle fruity, malty sweet, smooth, clean
+Color: Contributes deep amber hues
+This smoked malt is produced using cherry wood. It is a unique, enzyme-active specialty malt with a blend of pronounced smoke and subtle fruity flavor with malty sweetness that is surprisingly smooth and clean.
+Usage Levels / Beer Styles
+5-10% Noticeable smoke character in lighter styles such as Scottish Ales and Oktoberfests
+10-20% Pronounced smoke character in lighter styles like Scottish Ales and Oktoberfests
+30-60% Noticeable to pronounced smoke character in darker styles like Stouts and Porters</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Smoked Malt Mesquite (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>5.0000000</F_G_COLOR>
+<F_G_YIELD>80.5000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>6.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>90.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>60.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Pronounced smoke, upfront smoky mesquite, slightly sweet, smooth
+Color: Contributes deep amber hues
+This smoked malt is produced using mesquite wood. It is a unique, enzyme-active specialty malt that contributes pronounced smoke and upfront earthy mesquite flavor with some sweetness and is surprisingly smooth.
+Usage Levels / Beer Styles
+5-10% Noticeable smoke character in lighter styles such as Scottish Ales and Oktoberfests
+10-20% Pronounced smoke character in lighter styles like Scottish Ales and Oktoberfests
+30-60% Noticeable to pronounced smoke character in darker styles like Stouts and Porters</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>292</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Special Roast Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>40.0000000</F_G_COLOR>
+<F_G_YIELD>72.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>2.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Toasty, biscuity, bran flakes, sourdough, tangy
+Color: Deep golden to brown hues
+This is a drum-roasted biscuit-style malt that is more deeply roasted than our Victory&reg; Malt. It is produced from a proprietary malting/roasted process that kicks up the intensity of the toasty and biscuity flavors. It develops noticeable bran flake notes and creates its distinguishing bold sourdough/tangy flavor.
+Usage Levels / Beer Styles
+5-10% Excellent in IPA, ESB, Amber, Nut Brown Ale, Porter, and other dark beer styles</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Synergy Select Pilsen Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.8000000</F_G_COLOR>
+<F_G_YIELD>83.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>100.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.9000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Clean, sweet, mild malty
+Color: Light golden color
+Premium, European-style Pilsen craft malt for all beer styles. It has a high extract, moderate enzymes, and FAN for controllable, consistent processing.
+Usage Levels / Beer Styles
+Up to 100% of the base malt of any beer style needing subtle round base malt flavor</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Synergy Select Pilsen Maltgems (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.8000000</F_G_COLOR>
+<F_G_YIELD>83.3000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.1000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.4000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>100.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.9000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Clean, sweet, with notes of bread, cracker, and honey
+Color: Light golden color
+Custom milled in small batches to reduce bitter, astringent flavors. MaltGems&trade; is crafted by removing the majority of husk, fine grit, and flour from our milled Synergy Select Pilsen Malt. What remains is the heart of the malt, that can be lautered like a traditional brewer&rsquo;s grind to deliver exceptional performance. This innovative product reveals true malt flavors with a remarkably clean finish.
+Usage Levels / Beer Styles
+Up to 100% of the base malt of any beer style where clean, sweet, well-rounded base malt flavor is desired</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>293</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Victory Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>28.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>2.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>0.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Toasty, biscuity, baking bread, nutty, clean
+Color: Deep golden to brown hues
+With an aroma of baking bread, Victory&reg; Malt is well suited for Nut Brown Ales and other medium to dark beers. It has a clean flavor that makes it well suited for ales and lagers. You can use in small amounts to add complexity and warm color to lighter colored ales and lagers.
+Usage Levels / Beer Styles
+5-10% Excellent in IPA, ESB, Amber, Nut Brown Ale, Porter, and other dark beer styles</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 30L</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Victory Malt Organic (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>28.0000000</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>2.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Toasty, biscuity, baking bread, nutty, clean
+Color: Deep golden to brown hues
+With an aroma of baking bread, Victory&reg; Organic Malt is well suited for Nut Brown Ales and other medium to dark beers. It has a clean flavor that makes it well suited for ales and lagers. You can use in small amounts to add complexity and warm color to lighter colored ales and lagers.
+Usage Levels / Beer Styles
+5-10% Excellent in IPA, ESB, Amber, Nut Brown Ale, Porter, and other dark beer styles</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>295</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Wheat - Red Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.0000000</F_G_COLOR>
+<F_G_YIELD>82.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>110.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>12.5000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>40.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Creamy, sweet, malty, wheat flour
+Color: Contributes light straw color
+This malt is often used in Hefeweizen and other traditional wheat styles due to a distinctive, characteristic wheat flour flavor. It runs efficiently through the brewhouse even with slightly higher protein than White Wheat Malt. You can use this malt as a part or all of your base malt in wheat beers.
+Usage Levels / Beer Styles
+5% Improves head and head retention in any beer style
+10-20% Typical usage in a K&ouml;lsch beer
+30-40% Use with raw wheat or wheat flakes in traditional Belgian Wit; Common usage rate in wheat beers</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>297</_PERMID_>
+<_MOD_>2021-03-02</_MOD_>
+<F_G_NAME>Wheat - White Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.8000000</F_G_COLOR>
+<F_G_YIELD>83.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.5000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Sweet, malty, wheat, mild bread dough
+Color: Contributes light straw color
+This wheat malt contributes a light straw color and can be used as a part or all of your base malt in wheat beers.
+Usage Levels / Beer Styles
+5% Improves head and head retention in any beer style
+10-20% Typical usage in a K&ouml;lsch beer
+30-40% Use with raw wheat or wheat flakes in traditional Belgian Wit
+50% or more Functions as base malt when used alone or with base malt in American Wheat beers</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Wheat - White Malt Raw (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.0000000</F_G_COLOR>
+<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>12.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>40.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Wheat flour flavor
+Color: Light straw color
+This raw wheat imparts less sweetness and full body while enhancing foam stability. You can use it when making traditional wheat beers.
+Usage Levels / Beer Styles
+Up to 40%	Lambic beers</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2022-12-07</_MOD_>
+<F_G_NAME>White Grain Sorghum Extract 45DE High Maltose (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>3</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>3.0000000</F_G_COLOR>
+<F_G_YIELD>95.6521739</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Color: Tan to light brown liquid
+Flavor: Neutral
+This gluten free, hypoallergenic, non-GMO extract functions as a 1:1 substitute for LME for 100% extract brewing to produce gluten free beer. It can be used in any recipe as a unique liquid adjunct to boost initial gravities while increasing overall brewing capacity due to its unique, mild flavor. You can use with concentrated worts to produce almost any beer style.
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.1875000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_PERMID_>0</_PERMID_>
+<_MOD_>2021-03-08</_MOD_>
+<F_G_NAME>Yellow Corn Raw Malt (Briess)</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_USE>0</F_G_USE>
+<F_G_USE_SET>1</F_G_USE_SET>
+<F_G_ACID_PCT>0.0000000</F_G_ACID_PCT>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>2.0000000</F_G_COLOR>
+<F_G_YIELD>86.6000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>13.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>7.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>50.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Flavor: Fresh corn
+Color: Medium yellow
+Use for American pilsners and lagers to lighten beer body, decrease haziness, stabilize flavor, and add depth.
+Usage rates:
+Up to 50% for American Pilsners and Lagers</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+<TxLog>0</TxLog>
+<PermCount>0</PermCount>
+<TxCount>0</TxCount>
+<TxTable>17055</TxTable>
+<TxPath></TxPath>
+</Selections>

@@ -1,0 +1,173 @@
+<Selections><_MOD_>2018-04-17</_MOD_>
+<Name>Selections</Name>
+<Type>7403</Type>
+<Dirty>1</Dirty>
+<Owndata>0</Owndata>
+<TID>100</TID>
+<Size>7</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Hops><_MOD_>2018-04-17</_MOD_>
+<F_H_NAME>Summit Hop Extract</F_H_NAME>
+<F_H_ORIGIN>US</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>3</F_H_FORM>
+<F_H_ALPHA>50.2900000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>100.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>CO2 Hop Extract -sold in both 0.5kg (150 gma), 1 kg (300 gma), 2 kg, 3kg and 4kg cans.  Extracted from Summit hops and only for use in the boil.  Measure out liquid in ml for use.
+
+Check alpha percentage listed here against the can as alpha may vary by season and manufacturer.</F_H_NOTES>
+<F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2018-04-17</_MOD_>
+<F_H_NAME>HopShot</F_H_NAME>
+<F_H_ORIGIN>US</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>3</F_H_FORM>
+<F_H_ALPHA>65.0000000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>100.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>CO2-extracted hop resin that can be used for bittering or late additions to boiling wort.  Primarily for use in boil.  Made from Columbus (or CTZ) blend hops.
+http://www.northernbrewer.com/documentation/hopshot.pdf</F_H_NOTES>
+<F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2018-04-17</_MOD_>
+<F_H_NAME>Cascade Hop Extract</F_H_NAME>
+<F_H_ORIGIN>US</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>3</F_H_FORM>
+<F_H_ALPHA>38.8000000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>100.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>CO2 Hop Extract -sold in both 0.5kg (150 gma), 1 kg (300 gma), 2 kg, 3kg and 4kg cans.  Made from Cascade hops and only for use in the boil.  Measure out liquid in ml for use.
+
+Check alpha percentage listed here against the can as alpha may vary by season and manufacturer.</F_H_NOTES>
+<F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2018-04-17</_MOD_>
+<F_H_NAME>Centennial Hop Extract</F_H_NAME>
+<F_H_ORIGIN>US</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>3</F_H_FORM>
+<F_H_ALPHA>48.8000000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>100.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>CO2 Hop Extract -sold in both 0.5kg (150 gma), 1 kg (300 gma), 2 kg, 3kg and 4kg cans.  Extracted from Centennial hops and only for use in the boil.  Measure out liquid in ml for use.
+
+Check alpha percentage listed here against the can as alpha may vary by season and manufacturer.</F_H_NOTES>
+<F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2018-04-17</_MOD_>
+<F_H_NAME>Chinook Hop Extract</F_H_NAME>
+<F_H_ORIGIN>US</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>3</F_H_FORM>
+<F_H_ALPHA>58.8000000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>100.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>CO2 Hop Extract -sold in both 0.5kg (150 gma), 1 kg (300 gma), 2 kg, 3kg and 4kg cans.  Extracted from Centennial hops and only for use in the boil.  Measure out liquid in ml for use.
+
+Check alpha percentage listed here against the can as alpha may vary by season and manufacturer.</F_H_NOTES>
+<F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2018-04-17</_MOD_>
+<F_H_NAME>Citra Hop Extract</F_H_NAME>
+<F_H_ORIGIN>US</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>3</F_H_FORM>
+<F_H_ALPHA>50.2900000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>100.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>CO2 Hop Extract -sold in both 0.5kg (150 gma), 1 kg (300 gma), 2 kg, 3kg and 4kg cans.  Extracted from Citra hops and only for use in the boil.  Measure out liquid in ml for use.
+
+Check alpha percentage listed here against the can as alpha may vary by season and manufacturer.</F_H_NOTES>
+<F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2018-04-17</_MOD_>
+<F_H_NAME>El Dorado Hop Extract</F_H_NAME>
+<F_H_ORIGIN>US</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>3</F_H_FORM>
+<F_H_ALPHA>50.2900000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>0.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>100.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>CO2 Hop Extract -sold in both 0.5kg (150 gma), 1 kg (300 gma), 2 kg, 3kg and 4kg cans.  Extracted from El Dorado hops and only for use in the boil.  Measure out liquid in ml for use.
+
+Check alpha percentage listed here against the can as alpha may vary by season and manufacturer.</F_H_NOTES>
+<F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>0</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+</Selections>

@@ -1,0 +1,6 @@
+Directory=/Users/Barry/Library/Application Support/BeerSmith3/
+hash4=13386297
+hash1=11327048
+hash2=22474
+hash3=23353
+Installed=true

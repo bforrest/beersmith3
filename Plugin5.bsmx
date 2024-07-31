@@ -1,0 +1,319 @@
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-13</_MOD_>
+<Name>Plugin</Name>
+<Type>8344</Type>
+<Dirty>0</Dirty>
+<Owndata>1</Owndata>
+<TID>8344</TID>
+<Size>50</Size>
+<_XName>Plugin</_XName>
+<Allocinc>16</Allocinc>
+<Data><Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Simpsons Malts (29 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>SimpsonsMalts.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>BestMalz Malts (30 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>BestMalz_Eng.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Hop Update 2018 (58 hops)</F_PLUG_NAME>
+<F_PLUG_TYPE>7403</F_PLUG_TYPE>
+<F_PLUG_FILE>Hops2018.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Hop CO2 Extracts (7 hops)</F_PLUG_NAME>
+<F_PLUG_TYPE>7403</F_PLUG_TYPE>
+<F_PLUG_FILE>HopExtracts.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>IMC Malts (3 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>IMC.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Castle Malts - English (67 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>CastleMaltEnglish.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Patagonia Malts from Chile (20 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>PatagoniaMalts.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Muntons Malts (17 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>MuntonsMalts.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Bairds Malt (15 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>BairdsMalt.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Avangard Malts (5 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>AvangardMalt.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Rahr Malts (7 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>RahrMalts.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Yeast Update 2016 (178 yeasts)</F_PLUG_NAME>
+<F_PLUG_TYPE>7426</F_PLUG_TYPE>
+<F_PLUG_FILE>Yeast2016Update.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Misc Update 2016 (48 items)</F_PLUG_NAME>
+<F_PLUG_TYPE>7421</F_PLUG_TYPE>
+<F_PLUG_FILE>Misc2016Update.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Hop Update 2016 (32 hops)</F_PLUG_NAME>
+<F_PLUG_TYPE>7403</F_PLUG_TYPE>
+<F_PLUG_FILE>Hops2016Update.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Hop Update 2013 - Hops included in V2.2 (63 hops)</F_PLUG_NAME>
+<F_PLUG_TYPE>7403</F_PLUG_TYPE>
+<F_PLUG_FILE>Hop-Update-2013.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Viking Malts - Finland (19 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Viking.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Thomas Fawcett Malts (14 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Thomas_Fawcett.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Simpsons Malts (11 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>simpsons-grains.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Great Western Malts (10 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Great-Western.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Barret Burston Malts (4 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Barret_Burston.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Midwest Supplies - Spotlight Recipes (10 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>Midwest-Spotlight.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Northern Brewer - Porters (13 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>NB-Porter.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Northern Brewer - Pale Ales (20 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>NB-PaleAle.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Northern Brewer - Stouts (17 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>NB-Stout.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Cargill Malts (15 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Cargill.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Weyermann Malts (30 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Weyermann.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Gambrinus Malts (12 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>GambrinusMalts.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Dingemans Malts (13 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Dingemans.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Crisp Malts (11 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Crisp.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Castle Malting (10 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>CastleMaltingGrain.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Candy Syrups (8 syrups)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>CandiSyrupProducts.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Briess Malts (66 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Briess.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>BestMalz Malts (17 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>BestMalz_Eng.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>BeerSmith - Oatmeal Stouts (10 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>BS-Oatmeal-Stout.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Yeast Update 2013 - Yeasts included in V2.2 (29 yeasts)</F_PLUG_NAME>
+<F_PLUG_TYPE>7426</F_PLUG_TYPE>
+<F_PLUG_FILE>Yeast-update.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Northern Brewer - IPAs (28 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>NB-IPA.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>CCHBS All Grain Recipes (10 Recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>CCHBS_All_Grain.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Cryo Hops (7 hops)</F_PLUG_NAME>
+<F_PLUG_TYPE>7403</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/CryoHops.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Hop Hash (4 hops)</F_PLUG_NAME>
+<F_PLUG_TYPE>7403</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/HopHash.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Hop Update Jun 2016 (6 hops)</F_PLUG_NAME>
+<F_PLUG_TYPE>7403</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/HopsMay2016.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Imperial Yeast Strains (27 yeasts)</F_PLUG_NAME>
+<F_PLUG_TYPE>7426</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/Imperial.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Mangrove Yeasts (18 yeasts)</F_PLUG_NAME>
+<F_PLUG_TYPE>7426</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/Mangrove.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Water Profiles by Style (30 waters)</F_PLUG_NAME>
+<F_PLUG_TYPE>7423</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/WaterByStyle.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Omega Yeasts (73 yeasts)</F_PLUG_NAME>
+<F_PLUG_TYPE>7426</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/OmegaYeast.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>BJCP 2015 Mead Styles </F_PLUG_NAME>
+<F_PLUG_TYPE>7428</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/BJCP_2015_Mead.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>2024-04-16</_MOD_>
+<F_PLUG_NAME>Grainfather (1 equip)</F_PLUG_NAME>
+<F_PLUG_TYPE>7430</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/Grainfather.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>PicoBrew Equipment (1 equip)</F_PLUG_NAME>
+<F_PLUG_TYPE>7430</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/PicoBrew.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>BJCP 2021 Beer Styles </F_PLUG_NAME>
+<F_PLUG_TYPE>7428</F_PLUG_TYPE>
+<F_PLUG_FILE>https://d1sqla7250puhf.cloudfront.net/Plugin/BJCP_2021_Beer.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>BJCP 2015 Style Guide</F_PLUG_NAME>
+<F_PLUG_TYPE>7428</F_PLUG_TYPE>
+<F_PLUG_FILE>https://d1sqla7250puhf.cloudfront.net/Plugin/BJCP2015.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_PERMID_>0</_PERMID_>
+<_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Muntons Malts (40 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>https://d1sqla7250puhf.cloudfront.net/Plugin/MuntonsMalts.bsmx</F_PLUG_FILE>
+</Plugin>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+<TxLog>0</TxLog>
+<PermCount>0</PermCount>
+<TxCount>0</TxCount>
+<TxTable>10491</TxTable>
+<TxPath></TxPath>
+</Plugin>

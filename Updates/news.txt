@@ -1,0 +1,18 @@
+3
+<h3>News: BeerSmith Web Available</h3>
+If you have not tried out our web based version of BeerSmith, you can try it today at <b><a href="https://beersmithrecipes.com/">BeerSmithRecipes.com</a></b></p>
+<ul>
+<li>
+Existing Gold, Platinum and Professional users get BeerSmith Web at no additional charge.
+</li>
+<li>
+Basic and new BeerSmith users can try it free for 30 days by simply creating an account
+</li>
+<li>
+BeerSmith Web lets you edit recipes from any browser including your desktop, tablet or phone!
+</li>
+</ul>
+<h3>BeerSmith Desktop Update 3.2.7</h3>
+If you installed BeerSmith before June of 2021, you should update to 3.2.7 using the link below. Check <b>Help->About</b> to see your current version.<p>
+<p>A manual update is recommended - just download and intall the latest version here:
+<center><b><a href="http://beersmith.com/download-beersmith">Download BeerSmith 3.2.7</a></b></center><p>

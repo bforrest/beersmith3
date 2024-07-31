@@ -1,0 +1,283 @@
+<Selections><_MOD_>2011-07-03</_MOD_>
+<Name>Selections</Name>
+<Type>7406</Type>
+<Owndata>0</Owndata>
+<TID>100</TID>
+<Size>10</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Grain><_MOD_>2012-01-24</_MOD_>
+<F_G_NAME>Abbey malt (Castle Malting)</F_G_NAME>
+<F_G_ORIGIN>Belgien</F_G_ORIGIN>
+<F_G_SUPPLIER>Castle Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>22.8000000</F_G_COLOR>
+<F_G_YIELD>79.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>20.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>L&aring;g enzymatisk aktivitet, beh&ouml;ver m&auml;skas tillsammans med en basmalt f&ouml;r full konversion.Abbey malt &auml;r en mer rostad form av Pale malt. Ger en stark smak av bakat br&ouml;d, n&ouml;tter och frukter. Abbey malt har en bitter smak som mognar med &aring;ldrande.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.4535920</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2010-12-15</_MOD_>
+<F_G_NAME>Aromamalt (Castle Malting)</F_G_NAME>
+<F_G_ORIGIN>Belgien</F_G_ORIGIN>
+<F_G_SUPPLIER>Castle Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>50.7614213</F_G_COLOR>
+<F_G_YIELD>78.5000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>30.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Aroma malt ger rik maltig doft och smak till b&auml;rnstens f&auml;rgade och m&ouml;rka lager &ouml;l. J&auml;mf&ouml;rt med andra traditionella f&auml;rgade malt sorter, ger en mjukare bitterhet. Anv&auml;nds till mycket aromatisk &ouml;l och har enzymatisk kraft f&ouml;r sj&auml;lvkonvertering.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.4535920</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2010-12-15</_MOD_>
+<F_G_NAME>Biscuit malt (Castle Malting)</F_G_NAME>
+<F_G_ORIGIN>Belgien</F_G_ORIGIN>
+<F_G_SUPPLIER>Castle Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>30.4568528</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.7000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>15.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>M&aring;ste m&auml;skas med en basmalt f&ouml;r full konversion, inga egna enzymer. Biscuit malt ger en mycket uttalad &quot;Toasty&quot; finish i &ouml;l. F&ouml;rmedlar en varm br&ouml;d och kex doft och smak. Denna malt anv&auml;nds f&ouml;r att f&ouml;rb&auml;ttra rostade smak och arom i tex Abbey Ales.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.5102910</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2010-12-15</_MOD_>
+<F_G_NAME>Caf&eacute; Light (Castle Malting)</F_G_NAME>
+<F_G_ORIGIN>Belgien</F_G_ORIGIN>
+<F_G_SUPPLIER>Castle Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>126.9035533</F_G_COLOR>
+<F_G_YIELD>77.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>3.7000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>5.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>F&ouml;rmedlar en mild och n&ouml;taktig kaffe-liknande smak och arom till &ouml;l. L&auml;gger komplexitet till m&ouml;rk ale. St&auml;rker f&auml;rgen. F&ouml;r tex Stouts, Porters, och n&aring;got i  Brown Ales f&ouml;r inslag av f&auml;rskt rostat kaffe.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.5102910</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2011-07-03</_MOD_>
+<F_G_NAME>Cara Blond 20 (Castle Malting)</F_G_NAME>
+<F_G_ORIGIN>Belgien</F_G_ORIGIN>
+<F_G_SUPPLIER>maltmagnus.se</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>10.1522843</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>En blek belgisk karamell malt.
+Anv&auml;ndningsomr&aring;de: Ljus lager&ouml;l, ljus ale och Belgiska Wit.
+Rekommenderad max giva: upp till 20%.
+Ger en mild karamell-s&ouml;t doft och l&auml;gger gyllene f&auml;rg till ditt &ouml;l. En utm&auml;rkande egenskap hos alla karamell malter &auml;r glasaktighet. Den glasartade fr&ouml;vitan skapar &ouml;nskv&auml;rda icke-j&auml;sbara komponenter som ger sann karamell malt f&ouml;rm&aring;ga att bidra med &ouml;kad munk&auml;nsla, skum och &ouml;kad skum stabilitet.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.5102910</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2011-07-03</_MOD_>
+<F_G_NAME>Cara Ruby 50 (Castle Malting)</F_G_NAME>
+<F_G_ORIGIN>Belgien</F_G_ORIGIN>
+<F_G_SUPPLIER>maltmagnus.se</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>25.3807107</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>5.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>En medium f&auml;rgad belgisk karamell malt.
+Anv&auml;ndningsomr&aring;de:Brown Ales, Brune des Flandres, Bock och Skottska Ales.
+Ger en rik karamell-s&ouml;t doft, kola-liknande smak och ger en ljus b&auml;rnsten till r&ouml;daktig f&auml;rg till ditt &ouml;l. En utm&auml;rkande egenskap hos alla karamell malter &auml;r glasaktighet. Den glasartade fr&ouml;vitan skapar &ouml;nskv&auml;rda icke-j&auml;sbara komponenter som ger sann karamell malt f&ouml;rm&aring;ga att bidra med &ouml;kad munk&auml;nsla, skum och &ouml;kad skum stabilitet.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.5102910</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2010-12-15</_MOD_>
+<F_G_NAME>Chokladmalt (Castle Malting)</F_G_NAME>
+<F_G_ORIGIN>Belgien</F_G_ORIGIN>
+<F_G_SUPPLIER>Castle Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>456.8527919</F_G_COLOR>
+<F_G_YIELD>75.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>10.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>7.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Choklad Malt &auml;r en mycket rostad malt med en djup brun f&auml;rg. Anv&auml;nds f&ouml;r att justera f&auml;rgen p&aring; &ouml;l och sk&auml;nker en n&ouml;taktig, rostad smak av m&ouml;rk choklad och kaffe. Mildare &auml;n blackmalt och rostat korn. Till tex Stout, Porter och Brown Ales.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.5386405</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2010-12-15</_MOD_>
+<F_G_NAME>Pilsnermalt 6RW (Castle Malting)</F_G_NAME>
+<F_G_ORIGIN>Belgien</F_G_ORIGIN>
+<F_G_SUPPLIER>Castle Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.7258883</F_G_COLOR>
+<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.6000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>90.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Framst&auml;lld av sexradigt vinterkorn i finaste kvalitet. V&auml;lmodifierad malt som inneh&aring;ller mer protein och har en h&ouml;gre enzymatisk aktivitet &auml;n vanlig tv&aring;radig pilsnermalt.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.3685435</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2011-07-04</_MOD_>
+<F_G_NAME>R&ouml;kmalt (Castle Malting)</F_G_NAME>
+<F_G_ORIGIN>Belgien</F_G_ORIGIN>
+<F_G_SUPPLIER>Castle Malting</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.5736041</F_G_COLOR>
+<F_G_YIELD>82.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.8000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>86.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>5.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>R&ouml;kt &ouml;ver Skotsk torv.
+F&ouml;rmedlar en distinkt r&ouml;kig, kryddig doft och smak, typiskt f&ouml;r klassiska tyska &ouml;l stilar. R&ouml;kt &ouml;l bryggt med Castle Maltings R&ouml;k malt smakar som en skogsbrand - men p&aring; ett bra s&auml;tt! 
+
+Anv&auml;ndnigsomr&aring;de: Skotska Ales , Porters, Tyska R&ouml;k&ouml;l och Special &ouml;l.
+
+Rekomenderad giva max 5%
+
+</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.4819415</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2010-12-15</_MOD_>
+<F_G_NAME>Special B (Castle Malting)</F_G_NAME>
+<F_G_ORIGIN>Belgien</F_G_ORIGIN>
+<F_G_SUPPLIER>Castle Maltings</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
+<F_G_COLOR>152.2842640</F_G_COLOR>
+<F_G_YIELD>76.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_ORDER>0</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.0000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Mycket speciell belgisk karkellmalt.Ger en djupt r&ouml;d till m&ouml;rkt brun-svart f&auml;rg och fylligare kropp, unik rik maltig smak och arom av russin, n&ouml;tter och plommon. Anv&auml;nds tex till  Abbey Ales.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.5102910</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Selections>

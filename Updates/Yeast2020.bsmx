@@ -1,0 +1,2613 @@
+<Selections><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-11</_MOD_>
+<Name>Selections</Name>
+<Type>7426</Type>
+<Dirty>1</Dirty>
+<Owndata>0</Owndata>
+<TID>100</TID>
+<Size>82</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Yeast><_PERMID_>263</_PERMID_>
+<_MOD_>2020-07-08</_MOD_>
+<F_Y_NAME>Nordic Farmhouse</F_Y_NAME>
+<F_Y_LAB>East Coast Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>ECY43</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-01-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-01-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>78.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>83.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>90.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>105.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-01-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES> Sigmund strain of Kveik yeast (Saccharomyces cerevisiae). Traditionally used in the production of Norwegian Farmhouse Ale yielding spicy orange peel flavor, particularly if underpitched.  Recommended Fermentation temperature: 90-105 &ordm;F. Pitch temperature: 102&ordm;F . Apparent Attenuation: 78 - 83%. </F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Artisanal Country Ale Yeast</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP073</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>70.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>82.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Blonde Ale, Belgian Dark Strong Ale</F_Y_BEST_FOR>
+<F_Y_NOTES>A classic Bie&#768;re de Garde strain, it produces slight esters and mild phenols, while preserving the sweet aromatics from the malt bill. This strain fully attenuates, leaving the beer with a crisp, dry finish.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Belgian Wit II Ale Yeast</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP410</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>67.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>74.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian Wit</F_Y_BEST_FOR>
+<F_Y_NOTES>A fairly clean strain with medium intensity and spice-like phenol production. With up to 75% attenuation, this strain produces a residual malt character. It helps balance any adjuncts resulting in increased drinkability. Slightly lower resulting pH than English or American ale strains, it creates a slightly tart refreshing beer. This strain is ideal for witbiers or Belgian table beers.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Brettanomyces Anomalus</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP640</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>70.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>85.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>Typical barnyard funk character with some fruitiness. Acidity is medium. Primary fermentation can be done with this strain, but a starter may be necessary.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Buchner Ale Yeast Blend</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP064</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>67.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Pale ales, cream ales and American wheats</F_Y_BEST_FOR>
+<F_Y_NOTES>A blend of two strains that adds creaminess with a hint of crispness. Great for pale ales, cream ales and American wheats. Flocculation is good due to one of the strains being a heavy flocculator.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Burlington Ale Yeast</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP095</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>67.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>70.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>New England-style IPAs</F_Y_BEST_FOR>
+<F_Y_NOTES>This yeast is the signature strain for a brewery in the Northeast United States, making it ideal for New England-style IPAs. Adding personality to your beer by contributing esters and body, this strain will blend with hop flavors and aromas while balancing bitterness. Esters are higher than WLP001 California Ale Yeast&reg; and this strain has been known to result in more diacetyl increasing the temperature at the end of fermentation is suggested.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Charlie&#39;s Fist Bump Yeast</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP1983</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>55.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>73.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Ales/Lagers</F_Y_BEST_FOR>
+<F_Y_NOTES>Previously called WLP862 Cry Havoc Lager Yeast, this strain is licensed from Charlie Papazian and can ferment at both ale and lager temperatures, allowing brewers to produce diverse beer styles. The recipes in both Papazian&rsquo;s books, &quot;The Complete Joy of Homebrewing,&quot; &quot;The Homebrewer&rsquo;s Companion,&quot; and &quot;Microbrewed Adventures&quot; were originally developed and brewed with this yeast.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Coastal Haze Ale Yeast Blend</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP067</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>82.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>American India Pale Ale, American Pale Ale, Blonde Ale, Hazy IPA/Pale Ale, Imperial India Pale Ale</F_Y_BEST_FOR>
+<F_Y_NOTES>This blend of our favorite New England-style IPA strains is great for producing beers with a hazy appearance and tropical, fruit-forward esters. Producing dry, yet juicy beers, the mango and pineapple characteristics will lend to added drinkability.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Hansen Ale Yeast Blend</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP075</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>66.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>70.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>American Pale Ales, Stouts, Porters</F_Y_BEST_FOR>
+<F_Y_NOTES>This is a blend of many IPA strain favorites. It has the attenuation of WLP090 San Diego Super Ale Yeast and the character of WLP007 Dry English Ale Yeast. This strain produces dry, hop-forward beers with minor ester production and is blend is a great flocculator.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Hornindal Kveik Ale Yeast</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP521</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>82.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>72.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>98.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Pale ale</F_Y_BEST_FOR>
+<F_Y_NOTES>Hornindal is a Kveik strain shared with the world by Terje Raftevold from Hornindal, Norway. It produces an intense tropical flavor and aroma with notes of fresh tangerine, mango, and pineapple, ideal to be used with fruit-forward hops.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Leeuwenhoek Saison Yeast Blend</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP564</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>76.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>82.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>66.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Saison, Belgian Wit</F_Y_BEST_FOR>
+<F_Y_NOTES>A blend of two saison strains and a low phenolic Belgian strain, developed for the White Labs in-house saisons. Approximately 85% attenuation which makes for a dryer saison. The strain proved very versatile, creating spicy, dry and clean beers.
+
+WLP564 Leeuwenhoek Saison Yeast Blend is POF+, this strain will contribute phenolic characteristics to finished products</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>London Fog Ale Yeast</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP066</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>82.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>New England-style IPA</F_Y_BEST_FOR>
+<F_Y_NOTES>This is the go-to strain for New England-style IPAs. It produces a medium ester profile similar to WLP008 East Coast Ale Yeast. It leaves some residual sweetness, helping accentuate both malt and hop flavors and aromas, while retaining a velvety mouthfeel.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Mara&ntilde;&oacute;n Canyon Wild Cacao</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP546</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>65.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>70.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>65.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>This yeast was isolated from the thought to be extinct Pure Nacional variety of cacao. In 2007, this rare variety with white beans was rediscovered in the remote Mara&ntilde;&oacute;n River Canyon in Peru. The fruity, phenolic, and wild-like characteristics of this strain make it an ideal choice for farmhouse and saison-style beers.
+
+WLP546 Mara&ntilde;&oacute;n Canyon Wild Cacao is POF+, this strain will contribute phenolic characteristics to finished products. </F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Melbourne Ale Yeast</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP059</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>74.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>73.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>73.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>A yeast isolated from Australia in the early 1900s, it is a clean fermenting strain well suited for many American and English beer styles. Renowned Australian homebrewer, Peter Symon, researched this strain for his book Bronzed Brews and asked White Labs to acquire it from a yeast bank in London, England. This historic strain was used in Australia because of its ability to ferment well in the Australian climate and Australian cane sugar.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>New Nordic Ale Yeast</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP611</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>65.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>50.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>86.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-06</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Saison, Hefeweizen</F_Y_BEST_FOR>
+<F_Y_NOTES>Isolated from spontaneously fermented apples on a remote island off the coast of Denmark in the fall of 2009, this culture is a unique blend of three yeast strains (two belonging to Saccharomyces cerevisiae and one Torulaspora delbrueckii).
+
+Although originally thriving in the simple sugar fermentations such as wine and cider, this blend ferments maltose as well and has been used to make a series of true New Nordic Beers, which many were presented at the Copenhagen Beer Festival 2015. This blend has a specific aroma profile, especially at higher temperatures, that resemble classic styles such as Belgian saison or German hefeweizen.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Non STA1son Ale Yeast</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP561</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>78.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>78.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>This blend of STA1 negative strains produces a complex expression of esters and phenols great for saison and farmhouse-style beers without the potential for super-attenuation commonly associated with many Belgian-style strains. White Labs Brewing Co. commercial trials and sensory panel identified fruit-like notes from this strain ranging from lemon and tropical fruit to chamomile, as well as an array of spice-like phenolic driven aromas like pepper, clove, and coriander.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Opshaug Kveik Ale Yeast</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP518</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>77.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>95.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Pale Ale</F_Y_BEST_FOR>
+<F_Y_NOTES>Sourced from our friend Lars Marius Garshol, this kveik strain was isolated from a mixed culture which belonged to Harald Opshaug, a farmhouse brewer in Stranda, Norway. This strain was originally used in the 1990s to produce several korn&oslash;l-style beers. It is a clean fermenting yeast and has tolerated temperatures up to 95&deg;F (35&deg;C) while finishing fermentation within three to four days. The hop-forward, clean characteristics of this strain make it ideal for IPAs and pale ales.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Pinnacle Distillers Yeast (G)</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLDPINNACLE G 500G</F_Y_PRODUCT_ID>
+<F_Y_TYPE>4</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>92.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>98.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Bourbon Whiskey, Gin, Rum.Rye Whiskey, Scotch Whisky, Tequila, Vodka</F_Y_BEST_FOR>
+<F_Y_NOTES>An active dried yeast well-suited for use in simultaneous saccharification fermentation of starch substrates from grain. It has a high tolerance to liberated glucose. Product size = 500g. 
+
+Has a high cell count (&gt;1 x 1010 cells/g)
+Rehydrates well in direct pitch applications
+Has high ethanol and temperature tolerance
+Has organic acid tolerance
+Can be used in conjunction with glucoamylase and alpha amylase enzyme systems
+This yeast product has optimal performance within a pH range of 4.0 to 5.0 but can ferment well in the range of 3.5 to 6.0. Optimal fermentation temperature is dependent on other stresses present (i.e. organic acid, ethanol and pH) but generally ferments well in the range of 33&deg;C to 37&deg;C (92&deg;F to 98&deg;F). Under proper conditions, this yeast can produce ethanol up to and beyond 16% w/v.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Pinnacle Distillers Yeast (M)</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLDPINNACLE M 500G</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>76.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>82.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>90.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>An active dried yeast well-suited for use in malt-based fermentations. It rapidly consumes maltose and produces a flavorful spirit. Product size = 500g. 
+
+Has a high cell count (&gt;1 x 1010 cells/g)
+Rehydrates well in direct pitch applications
+Is noted for its resulting spirit having high organoleptic qualities
+This yeast product can be applied in a variety of malt mashes. Pinnacle Distillers Yeast (M) can withstand a wide range of starting fermentation temperatures with an optimum range of 28&deg;C to 32&deg;C (82&deg;F to 90&deg;F). Yeast can be either pitched directly to the attemperated mash or rehydrated.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Pinnacle Distillers Yeast (MG+) </F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLDPINNACLE MG+ 500G</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>76.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>82.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>100.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>An active dried yeast well-suited for use in both malt and grain fermentations. It has the collective capability to tolerate high gravity and temperature. Product size = 500g. 
+
+Has a high cell count (&gt; 20 x 109 cells/g) 
+Rehydrates well in direct pitch applications
+Is noted for its resulting spirit having high organoleptic qualities
+This yeast product can be applied in a variety of cereal-based mashes. Pinnacle Distillers Yeast (MG+) can withstand a wide range of starting fermentation temperatures with an optimum range of 28&deg;C to 38&deg;C (82&deg;F to 100&deg;F). Yeast can be either pitched directly to the attemperated mash or rehydrated.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Pinnacle Distillers Yeast (S)</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLDPINNACLE S</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>76.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>92.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>98.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>An active dry yeast well-suited for use in batch and continuous fermentations of molasses and pure sugars. It has a high tolerance to early residual sugars. Product size = 500g. 
+
+Has a high cell count (&gt;1 x 1010 cells/g)
+Rehydrates well in direct pitch applications
+Has high ethanol and temperature tolerance
+Has organic acid tolerance
+Can be used in conjunction with nutritional and vitamin supplementations
+ This yeast product has optimal performance within a pH range of 4.0 to 5.0 but can ferment well in the range of 3.5 to 6.0. Optimal fermentation temperature is dependent on other stresses present (i.e. organic acid, ethanol and pH) but generally ferments well in the range of 33&deg;C to 37&deg;C (92&deg;F to 98&deg;F). Under various process conditions, this yeast can produce high ethanol titres under a broad range of applications and substrate type.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Saccharomycodes ludwigii</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP618</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>0.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>20.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>20.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Low alcohol beer</F_Y_BEST_FOR>
+<F_Y_NOTES>This strain of non-conventional brewing yeast has been found to be useful when brewing a low alcohol beer. This specific strain has been chosen because of it&rsquo;s lower ethyl acetate production compared to similar strains. This species does not ferment maltose or other larger sugars and will only ferment the glucose, sucrose, and fructose. This strain is appropriate for all styles of low alcohol beer.
+
+Although this would be categorized as a wild yeast, this strain would not typically be considered to be a beer spoiler as it does not have the ability to ferment larger sugars. Using this strain to create a low alcohol beer requires a modified recipe.  STA1: Negative</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Scottish Cider Yeast Blend</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP773</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>74.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>67.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>This is an exciting blend of two ale strains and one wine strain. Unlike a lot of ale strains that typically dry out most ciders, this unique blend of Saccharomyces strains will leave some residual sweetness for a smooth mouthfeel. This strain is perfect for those looking for a still cider with some lingering apple characteristic or a dryer sparkling cider.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Sigmund Kveik Ale Yeast</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP520</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>83.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>72.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>98.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Pale Ale</F_Y_BEST_FOR>
+<F_Y_NOTES>Sigmund is a Kveik strain shared by Sigmund Gjernes from Voss, Norway. Also known as Voss Kveik, this strain can produce earthy-like flavors with a touch of orange peel aromas.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Stranda Kveik Ale Yeast</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP519</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>72.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>98.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Pale Ale</F_Y_BEST_FOR>
+<F_Y_NOTES>Stranda is a kveik strain owned by Stein Langlo from Stranda, Norway. Considered a &ldquo;cleaner&rdquo; kveik strain, Stranda can also produce a wide range of beer styles over a large temperature gradient. Ideal for use when you have little to no temperature control of your fermentation.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>221</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Thames Valley Ale Yeast</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP030</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-01-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>78.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>72.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>65.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-01-20</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Porters, stouts, and ESB&#39;s</F_Y_BEST_FOR>
+<F_Y_NOTES>Very flocculant strain for all things English. Great for porters, stouts and ESBs. Lower ester production than most English strains but creates a bigger mouthfeel than most cleaner strains.</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Torulaspora Delbrueckii</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP603</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>20.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>20.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>66.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>74.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Cider</F_Y_BEST_FOR>
+<F_Y_NOTES>This strain of non-conventional brewing yeast is a maltose negative strain of yeast ideal for low-alcohol beers or to be blended with another higher attenuating strain. This species does not ferment maltose or other larger sugars and will only ferment glucose, sucrose, and fructose.
+The profile of this strain has high ester production and will lend well to styles such as a fruit-forward IPA or saison. This particular strain was isolated off of apples from an island in Norway. Although this would be categorized as a wild yeast, this strain would not typically be considered to be a beer spoiler as it does not have the ability to ferment larger sugars. Using this strain to create a low alcohol beer requires a modified recipe. STA1: Negative</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Zygosaccharomyces Lentus</F_Y_NAME>
+<F_Y_LAB>White labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP686</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>0.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>20.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>20.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Low Alcohol beers</F_Y_BEST_FOR>
+<F_Y_NOTES>This strain of non-conventional brewing yeast is a maltose negative strain of yeast ideal for low alcohol beers. This species does not ferment maltose or other larger sugars and will only ferment the glucose, sucrose, and fructose. The profile of this strain is found to be very neutral. This species is slower and might take longer to reduce sugars and lower the pH of the beer compared to other strains. Little ester production was perceived in lab scale trials.
+Although this would be categorized as a wild yeast, this strain would not typically be considered to be a beer spoiler as it does not have the ability to ferment larger sugars. Using this strain to create a low alcohol beer requires a modified recipe. STA1: Negative</F_Y_NOTES>
+<F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>131</_PERMID_>
+<_MOD_>2020-07-11</_MOD_>
+<F_Y_NAME>SafAle Saison</F_Y_NAME>
+<F_Y_LAB>Fermentis</F_Y_LAB>
+<F_Y_PRODUCT_ID>BE-134</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.8000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>11.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>89.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>93.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.4000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>82.4000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2003-06-14</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian-Saison Style beers</F_Y_BEST_FOR>
+<F_Y_NOTES>This typical brewer&rsquo;s yeast strain is recommended for well-attenuated beers, produces fruity, floral and phenolic notes and a dry character. Produces highly refreshing beers, it is ideal for Belgian-Saison style.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>296</_PERMID_>
+<_MOD_>2020-07-08</_MOD_>
+<F_Y_NAME>German Ale Yeast</F_Y_NAME>
+<F_Y_LAB>Giga Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>GY094</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-01-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-01-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>64.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>77.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-01-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Alt, Sticke, Dopplesticke, malt forward beers</F_Y_BEST_FOR>
+<F_Y_NOTES>Ale yeast from a traditional Dusseldorf brewery famous for malty, balanced alt-style brews. This yeast creates a lush, malt forward beer with subtle esters of honey, pear and apple. Perfect for Sticke, Dopplesticke and Alt beers but also makes a great choice for any malt forward beer with generous mouthfeel.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>296</_PERMID_>
+<_MOD_>2020-07-08</_MOD_>
+<F_Y_NAME>Hornindal Kveik #5</F_Y_NAME>
+<F_Y_LAB>Giga Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>GY135</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-01-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-01-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>79.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>70.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>100.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-01-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Pale Ale, IPA, NEIPA</F_Y_BEST_FOR>
+<F_Y_NOTES>A traditional Norwegian Kveik yeast that can be fermented at 85-100 F for fast fermentation and no off flavors. We have found a 15 P wort attenuates to 75%-78% in as little as 4 days at 90F. Subtle notes of tropical fruit make this yeast an excellent choice for clean hop-forward IPAs and Pale Ales.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>296</_PERMID_>
+<_MOD_>2020-07-08</_MOD_>
+<F_Y_NAME>Kveik #1</F_Y_NAME>
+<F_Y_LAB>Giga Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>GY134</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-01-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-01-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>74.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>80.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>100.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-01-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Pale Ale, IPA, NEIPA</F_Y_BEST_FOR>
+<F_Y_NOTES>A traditional Norwegian Kviek yeast that can be fermented at 85-100 F for fast fermentations and no off flavors. We have found a 15 P wort attenuates to 74% - 78% in as little as 48 hours at 90F. Subtle notes of citrus fruit make this yeast an excellent choice for clean hop-forward IPAs and Pale Ales with citrus hop additions</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>296</_PERMID_>
+<_MOD_>2020-07-08</_MOD_>
+<F_Y_NAME>Saison Blend</F_Y_NAME>
+<F_Y_LAB>Giga Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>GY047</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-01-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-01-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>80.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>83.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>80.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-01-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian, Witbier, Belgian Pale Ale</F_Y_BEST_FOR>
+<F_Y_NOTES>A blend of Saison yeast. This Blend is a super robust attenuator that produces a complex flavor profile of fruit and spice.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Bartleby</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>A46</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>98.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>Bartleby is a hornindal Kveik strain that is a great choice for anything from a traditional Norwegian farmhouse ale to a hazy IPA. When used on the high end of the temperature range, Bartleby will produce a lot of pineapple, apricot and peach aromas. The ability to run this yeast at higher fermentation temperatures along with its high flocculation properties make it a great strain for fast turnaround times.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Brett Claussenii</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>W12</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>55.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>70.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>85.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>Claussenii is a Brettanomyces strain favored for its production of tropical fruit aromas.  This strain shines when co-pitched with Saccharomyces and other strains of Brettanomyces.  By itself, Claussenii will typically take a long while to start up and fully attenuate.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Brett Drei</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>W05</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>56.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>70.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>85.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>A strain of Brettanomyces bruxellensis known to produce moderate to strong tropical fruit aromas. Best suited for secondary fermentations, but also works well when co-pitched in primary with a low percentage of ale yeast.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Brux</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>W13</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>55.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>62.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>68.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>Brux is a classic Brettanomyces bruxellensis strain traditionally isolated from lambic beers. This strain can produce aromas commonly described as barnyard and horse blanket.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Bubbles</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>A40GF</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>85.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>100.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>57.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>77.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Ciders</F_Y_BEST_FOR>
+<F_Y_NOTES>A traditional cider strain, Bubbles is a beautiful strain for fruit juice based fermentations.
+
+The clean profile of the yeast, especially when used at the lower end of the temperature range, allows the nuances of the fruit to be prominent in the finished bubbly beverage. This strain is produced on our 100% gluten free media. Imperial Yeast does not recommend this strain in the use of wort based fermentations.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Filibuster</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>B66</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>90.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>This strain will take off like normal ale yeast, but half way through the fermentation it will typically slow or completely stall. From there you could be waiting days to weeks for it to finish. If used at the high end of the temperature range, the fermentation could be complete in a few days. During this time, Fillibuster will crank out clove and bubble gum aromas. High temp fermentations could also lead to elevated fusel levels. Filibuster works best when blended or co-pitched with other strains.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Flagship Gluten Free</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>A07GF</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>77.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>60.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>This strain is the go-to for craft brewers, highly popular- this strain performs well at standard ale temperatures but can be used in the low 60s to produce exceptionally crisp ales. Flocculation is in the middle of the road and will typically require filtration or fining to achieve crystal clear beers.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Gustav</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>G17</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>8.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>79.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>58.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>68.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>Gustav is all about fermenting traditional Kolsch style beers. Very clean with slight peach and white wine aromatics, this strain is crisp and bright. Being a chain-forming yeast, it will float to the top of the wort during fermentation. Additionaly, this yeast strain is low floccing and will take a while to clarify on its own.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>House Gluten Free</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>A01GF</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>175.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>62.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>70.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>The best of both worlds, House is clean and allows malt and hops to shine. This strain is extremely versatile and flocculent enough to drop out of the beer quickly. Best strain choice for any and all English inspired recipes however, does extremely well in hopped up American styles too. House is clean at cold temperatures with increased esters as fermentation temperatures rise.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Julius</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>A34</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>68.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Traditional American IPAs</F_Y_BEST_FOR>
+<F_Y_NOTES>Traditional American IPAs are Julius&#39; specialty. Bright citrus notes of orange and lemon along with light apricot-like esters come through with low to moderate hopping rates to make a perfectly balanced beer. The high flocculation characteristics of this strain make it easy to work with and produce bright, crisp ales. Excellent choice for a house ale strain but also a great yeast for a hazy IPAs when combined with southern hemisphere hops.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Kveiking</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>A44</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>75.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>97.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>Kveiking [Kuh-vahy-king] noun: A blend of three Kveik strains that can produce an insane amount of pineapple, guava and other exotic tropical fruit aromas. verb: Hopefully not an Old Norse term for an activity we should not be promoting. The Kveiking blend thrives in hot fermentations when big complex ester profiles are desired. A low pitch rate can be used to drive these aromatics even higher but the brewer should ensure this low pitch rate can be combined with a continuously high fermentation temperature. If the temperature drops too low, the corresponding level of attenuation can be low, with high terminal gravities. This blend contains flocculent and non-flocculent yeast strains, therefore the clarity of the final beers produced can be variable. Use this blend for anything from new school hazy IPAs to traditional Norwegian farmhouse brews. The Kveiking blend also works well when fermenting kettle soured worts for a strong tropical fruit character.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Lacto. Brevis</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>W25</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>8.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>76.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>83.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>85.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>100.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>A stain of Lactobacillus brevis.  It is extremely hop sensitive and therefore should only be used in worts without hops. Lacto Brevis is a great strain for souring wort in the kettle or fermenter, prior to adding yeast for fermentation. For best performance use inoculation rates of 0.1% - 1.0% by volume of wort. Lacto Brevis will typically drop wort pH to 3.3 in 1-4 days depending on temperature and inoculation rate. </F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Lambicus</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>W10</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>55.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>70.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>85.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>Lambicus is a Brettanomyces bruxellensis strain known to produce significant pie cherry and fruity aromas during prolonged aging. This strain of Brett works well as a seconday aging strain or as a strain to copitch in the primary fermentation with Saccharomyces.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Loki</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>A43</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>65.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>100.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>A traditional Norwegian Kveik strain that has an extremely wide fermentation temperature range. This strain has been traditionally used in Norwegian farmhouse style beers however, due to it&rsquo;s fermentation temp range can be used in a variety of beers from pseudo lagers, Belgian inspired, and hop forward beers. The possibilities seem endless when fermenting with Loki. On the cool end of the range Loki is super clean; producing little to no esters. On the high end of the fermentation range, 85-95F, it tends to produce a huge fruit ester profile.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>POG</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>A37</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>85.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>100.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>After years of surviving in cold climates, this Kviek yeast is ready for the tropical lifestyle. When used at high temperatures, POG produces an extreme amount of topical fruit aromas including pineapple and guava. At the lower end of the range, more delicate citrus, peach and kiwi aromas are noticeable. The beer style options are expansive for this yeast. Use it in a hazy/juicy IPA to compliment the hops or use it in a sour fruited beer to maximize the extreme aromatics. POG likes to work fast at high fermentation temperatures. It is also strongly flocculent, which makes it great for a fast turnaround.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Pilgrimage</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>L26</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>77.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>44.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>56.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>A yeast brought to brewers from a higher power. Pilgrimage will produce lagers with a very clean profile that can accentuate the flavors and aromas of pilsner malt along with the aromatics of Noble hops. This lager yeast is very versatile and does well for all lager styles from Helles to Dopplebock.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>396</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Priory</F_Y_NAME>
+<F_Y_LAB>Imperial Yeast</F_Y_LAB>
+<F_Y_PRODUCT_ID>B75</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>10.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2017-06-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>76.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>74.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2017-06-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>This Abbey type strain is unique for its very clean profile. The ethanol character of the Priory typically dominates with some support from mild esters. A great strain for darker Belgian ales and as a base ale strain for Belgian fruit beers.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>429</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>K&ouml;lm K&ouml;lsch Style Ale Yeast</F_Y_NAME>
+<F_Y_LAB>Lallemand</F_Y_LAB>
+<F_Y_PRODUCT_ID>- </F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>9.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-03-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>71.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>54.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>68.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2011-03-06</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>k&ouml;lsch-style, neutral ales</F_Y_BEST_FOR>
+<F_Y_NOTES>LalBrew K&ouml;ln is ideal for brewing traditional K&ouml;lsch-style beers and other neutral ales.  The neutral character of this strain accentuates delicate hop aromas while imparting subtle fruity esters.  Through expression of a beta-glucosidase enzyme LalBrew K&ouml;ln can promote hop biotransformation and accentuate hop flavor and aroma. Colder fermentations will be more neutral in character, while warmer fermentations will have more fruit-forward ester profile.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>429</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>New England</F_Y_NAME>
+<F_Y_LAB>Lallemand</F_Y_LAB>
+<F_Y_PRODUCT_ID>- </F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>9.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-03-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>71.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2011-03-06</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>NEIPA, east coast style ales</F_Y_BEST_FOR>
+<F_Y_NOTES>LalBrew New England is an ale strain selected specifically for its ability to produce a unique
+fruit-forward ester profile desired in East Coast styles of beer. A typical fermentation with
+LalBrew New England will produce tropical and fruity esters, notably stone fruits like peach.
+Through expression of a &beta;-glucosidase enzyme, LalBrew New England can promote hop
+biotransformation and accentuate hop flavor and aroma. LalBrew New England exhibits
+medium to high attenuation with medium flocculation, making it a perfect choice for East
+Coast style ales. </F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>429</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Voss Kveik Ale Yeast</F_Y_NAME>
+<F_Y_LAB>Lallemand</F_Y_LAB>
+<F_Y_PRODUCT_ID>- </F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>3</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-03-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-06</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>71.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>77.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>104.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2011-03-06</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Norwegian farmhouse ales, fast fermented neutral ales</F_Y_BEST_FOR>
+<F_Y_NOTES>Kveik is a Norwegian word meaning yeast. In the Norwegian farmhouse tradition, kveik was preserved by
+drying and passed from generation to generation. Kveik is the original, traditional dried yeast! The LalBrew Voss strain was obtained from Sigmund Gjernes (Voss, Norway), who has maintained this culture using traditional methods since the 1980&rsquo;s and generously shared it with the wider brewing community. LalBrew Voss supports a wide range of fermentation temperatures between 25-40&deg;C (77-104&deg;F) with a very high optimal range of 35-40&deg;C (95-104&deg;F). Very fast fermentations are achieved within the optimal temperature range with full attenuation typically achieved within 2-3 days. The flavor profile is consistent across the entire temperature range: neutral with subtle fruity notes of orange and citrus.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>429</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Wildbrew Philly Sour</F_Y_NAME>
+<F_Y_LAB>Lallemand</F_Y_LAB>
+<F_Y_PRODUCT_ID>- </F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>9.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-03-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2011-03-06</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>76.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>77.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2011-03-06</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Berliner Weisse, Gose, lambic-style, American Wild, and Sour IPA</F_Y_BEST_FOR>
+<F_Y_NOTES>WildBrew Philly Sour produces moderate amounts of lactic acid in addition to ethanol in one simple
+fermentation step. This first yeast in the WildBrew series is a great choice for innovative,
+sessionable sour beers with refreshing acidity and notes of stone fruit. With high attenuation,
+high flocculation and good head retention, WildBrew Philly Sour is an ideal yeast for
+traditional styles such as Berliner Weiss, Gose, American Lambic Style, American Wild Ales
+and its resistance to hops make it perfect for Sour IPA&rsquo;s.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>429</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Wit Belgian Wit-Style Ale Yeast</F_Y_NAME>
+<F_Y_LAB>Lallemand</F_Y_LAB>
+<F_Y_PRODUCT_ID>- </F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-03-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2011-03-06</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>71.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>63.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2011-03-06</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Wheat beers</F_Y_BEST_FOR>
+<F_Y_NOTES>LalBrew Wit yeast is a relatively neutral strain which can be used to produce a wide variety of wheat beer styles. Ester and phenol production is lower than for traditional hefeweizen strains such as Munich Classic. LalBrew Wit provides a baseline profile of banana and spice aromas, but leaves space for the brewer to showcase other spice additions typical of Belgian style beers. Traditional styles brewed with this yeast include but are not limited to Belgian Witbier, American Wheat, Berliner Weiss, Gose, Hefeweizen, Dunkelweis, and Weizenbock .</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>427</_PERMID_>
+<_MOD_>2020-07-11</_MOD_>
+<F_Y_NAME>Kveik Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M12</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>3</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>77.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>82.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>104.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>suitable for a range of styles from Norwegian Farmhouse Ales to Pale Ales and IPAs.</F_Y_BEST_FOR>
+<F_Y_NOTES>A top fermenting yeast, Voss Kveik offers fast fermentation at very high temperatures whilst retaining a neutral flavour character with subtle citrus fruit notes.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>330</_PERMID_>
+<_MOD_>2020-07-08</_MOD_>
+<F_Y_NAME>Bavarian Wheat II</F_Y_NAME>
+<F_Y_LAB>Omega</F_Y_LAB>
+<F_Y_PRODUCT_ID>OYL-034</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-02-03</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-02-03</F_Y_PKG_DATE>
+<F_Y_CELLS>150.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>76.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-02-03</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>A big top-cropper and a low-flocculator, with banana, light pear, apple/plum, clove and vanilla. Another great wheat beer option with a complex bouquet relative to Hefeweizen Ale I (OYL-021). Up the esters with higher temperatures, wort density and lower pitch rate, or keep muted at lower temperatures to show clove. Sulfur conditions out.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>330</_PERMID_>
+<_MOD_>2020-07-08</_MOD_>
+<F_Y_NAME>Belgian Golden Strong</F_Y_NAME>
+<F_Y_LAB>Omega</F_Y_LAB>
+<F_Y_PRODUCT_ID>OYL-056</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>14.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-02-03</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-02-03</F_Y_PKG_DATE>
+<F_Y_CELLS>150.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>90.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>95.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>76.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-02-03</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>Perfectly suited for the production of high-gravity Belgian ales where a dry finish is desired. A mellow phenolic character is balanced by an ester profile of pear and light banana, while high levels of glycerol production ensure a round mouthfeel even at very low finishing gravity. Consistently reaches greater than 90% apparent attenuation without sluggishness or stalling.
+
+This strain tests positive for the STA1 gene, an indicator of Saccharomyces cerevsiae var. diastaticus, and is capable of fermenting dextrins, resulting in very high attenuation.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>330</_PERMID_>
+<_MOD_>2020-07-08</_MOD_>
+<F_Y_NAME>CL-50 Ale</F_Y_NAME>
+<F_Y_LAB>Omega</F_Y_LAB>
+<F_Y_PRODUCT_ID>OYL-041</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-02-03</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-02-03</F_Y_PKG_DATE>
+<F_Y_CELLS>150.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>74.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>76.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>60.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>70.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-02-03</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>Producing a notably big-body and soft texture, this versatile, well-attenuating strain&rsquo;s profile is a launch pad for the gamut of malt and hop characteristics. It achieves substantial maltiness without being overly sweet.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>330</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>ESPE Kveik</F_Y_NAME>
+<F_Y_LAB>Omega</F_Y_LAB>
+<F_Y_PRODUCT_ID>OYL-090</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-02-03</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-02-03</F_Y_PKG_DATE>
+<F_Y_CELLS>150.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>98.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-02-03</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>Originating from the village of Grod&aring;s in Norway, Espe offers the unique profile of lychee, pear, and tropical fruit cup. The strain bolsters the sweet aromatics of modern IPAs, but is versatile enough for your flagship pale ale or seasonal brew. Espe is most expressive when fermented at 90&deg;F+ (32&deg;C+), but still reveals its character at lower ale-pitching temperatures.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>330</_PERMID_>
+<_MOD_>2020-07-08</_MOD_>
+<F_Y_NAME>Gulo Ale</F_Y_NAME>
+<F_Y_LAB>Omega</F_Y_LAB>
+<F_Y_PRODUCT_ID>OYL-501</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-02-03</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-02-03</F_Y_PKG_DATE>
+<F_Y_CELLS>150.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>85.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>90.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>77.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-02-03</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>Gulo Ale is the latest creation to emerge from the curious minds of our R&amp;D team. The progeny of Irish Ale (OYL-005) and French Saison (OYL-026), this true genetic hybrid is a beast at devouring sugars, which creates a very dry beer without any of the peppery, clove phenolics associated with saisons and Belgian ales. Expect a citrus-forward aroma with hints of peach and a clean finish. Gulo Ale excels in any style where a high level of attenuation is desired without phenolics. We love using it in an IPA (including a brut IPA), stout, or Bi&egrave;re de Garde. Non-phenolic.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>330</_PERMID_>
+<_MOD_>2020-07-08</_MOD_>
+<F_Y_NAME>Hornindal Kveik</F_Y_NAME>
+<F_Y_LAB>Omega</F_Y_LAB>
+<F_Y_PRODUCT_ID>OYL-091</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>16.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-02-03</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-02-03</F_Y_PKG_DATE>
+<F_Y_CELLS>150.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>82.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>72.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>98.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-02-03</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>A wonderfully unique Norwegian farmstead &ldquo;kveik,&rdquo; Hornindal produces a tropical flavor and complex aroma that can present itself as stonefruit, pineapple, and dried fruit leather, which complement fruit-forward hops. Add even more dimension to &ldquo;C&rdquo; hops and increase ester intensity with a high fermentation temperature. Ferments well at 90&deg; F/32&deg; C or higher. Non-phenolic and no fusels, even at higher temps.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>330</_PERMID_>
+<_MOD_>2020-07-09</_MOD_>
+<F_Y_NAME>Lutra Kveik</F_Y_NAME>
+<F_Y_LAB>Omega</F_Y_LAB>
+<F_Y_PRODUCT_ID>OYL-071</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>11.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-02-03</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-02-03</F_Y_PKG_DATE>
+<F_Y_CELLS>150.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>82.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>95.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-02-03</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>Isolated from our Hornindal Kveik (OYL-091) culture, Lutra is shockingly clean with unrivaled speed when pitched at 90&deg;F (32&deg;C). The strain is perfect for brewing a refreshing pseudo-lager without the lead time of a lager. Lutra is your worry-free way to navigate the evolving demand for cold ones.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>330</_PERMID_>
+<_MOD_>2020-07-08</_MOD_>
+<F_Y_NAME>Northwest Farmhouse Brett</F_Y_NAME>
+<F_Y_LAB>Omega</F_Y_LAB>
+<F_Y_PRODUCT_ID>OYL-214</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-02-03</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-02-03</F_Y_PKG_DATE>
+<F_Y_CELLS>150.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>80.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-02-03</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>Enjoy the lighter side of funkiness with this B. bruxellensis variant that hails from a Northwest U.S. brewery. It&rsquo;s known for its wonderful white wine character and light funk, and develops its character rather quickly. Brett character will be apparent within a few weeks of reaching terminal gravity and will continue to develop if given additional conditioning time.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>330</_PERMID_>
+<_MOD_>2020-07-08</_MOD_>
+<F_Y_NAME>Voss Kveik</F_Y_NAME>
+<F_Y_LAB>Omega</F_Y_LAB>
+<F_Y_PRODUCT_ID>OYL-061</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-02-03</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-02-03</F_Y_PKG_DATE>
+<F_Y_CELLS>150.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>82.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>72.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>98.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-02-03</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>A traditional Norwegian kveik directly from the Gjernes farmstead, Voss Kveik&rsquo;s orange-citrus notes present throughout its wide temperature range. So, like the mango-honey profile of HotHead&reg; Ale (OYL-057), Voss Kveik&rsquo;s orange-citrus is relatively clean across its fermentation temperature range and pairs well with citrusy, fruity hops. Fermentation speed takes off at higher temperatures. Non-phenolic.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Belgian Schelde Ale</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>3655</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>11.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>77.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>62.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>74.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>From the East Flanders - Antwerpen region of Belgium, this unique top-fermenting yeast produces complex, classic Belgian aromas and flavors that meld well with premium quality pale and crystal malts. Well-rounded and smooth textures are exhibited with a full bodied malty profile and mouthfeel.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Belgian Stout</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>1581</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>65.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian stouts and Belgian specialty ales</F_Y_BEST_FOR>
+<F_Y_NOTES>A very versatile ale strain from Belgium. Excellent for Belgian stouts and Belgian specialty ales. Ferments to dryness and produces moderate levels of esters without significant phenolic or spicy characteristics.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Berliner Weisse Blend</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>3191</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>6.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>77.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Wild Blends and Belgian ales</F_Y_BEST_FOR>
+<F_Y_NOTES>This blend includes a German ale strain with low ester formation and a dry, crisp finish. The Lactobacillus included produces moderate levels of acidity, and the unique Brettanomyces strain imparts a critical earthy characteristic that is indicative of a true Berliner Weisse. When this blend is used, expect a slow start to fermentation as the yeast and bacteria in the blend is balanced to allow proper acid production. It generally requires 3-6 months of aging to fully develop flavor characteristics. Use this blend with worts containing extremely low hopping rates.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>22</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Burton IPA Blend</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>1203</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>4.2000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>71.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>74.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2003-06-14</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>English IPA, Ordinary Bitter, Best Bitter, Strong Bitter, American Porter, Foreign Extra Stout, Australian Sparkling Ale</F_Y_BEST_FOR>
+<F_Y_NOTES>The revival of interest in historic and classic English IPA styles calls for a specialized yeast. This blend highlights hop bitterness and aroma while still allowing full expression of authentic water profiles and pale malts. Low to moderate ester level can be manipulated through fermentation temperature and pitching rate. Palate finish is typically neutral to mildly fruity with some maltiness. Good flocculation characteristics make this an excellent candidate for cask conditioning.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Canadian/Belgian Ale</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>3864</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>79.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>65.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>80.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>This alcohol-tolerant strain produces complex and well-balanced Belgian Abbey-style ales. Banana and fruit esters are complemented nicely with mild levels of phenolics and hints of acidity. Ester levels may be elevated by increasing gravity and fermentation temperatures.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Farmhouse Ale</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>3726</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>74.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>79.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>70.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>84.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>This strain produces complex esters balanced with earthy/spicy notes. Slightly tart and dry with a peppery finish. A perfect strain for farmhouse ales and saisons.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Gambrinus Style Lager</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>2002</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>9.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>71.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>46.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>56.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>American and international Lager</F_Y_BEST_FOR>
+<F_Y_NOTES>Czech-style lager strain with very mild floral aroma, nice lager character in nose. Malt dominates profile with subtle floral/fruit notes. Full, complex flavor profile with full mouthfeel. Finishes soft and smooth with nice lingering maltiness.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Hella Bock Lager</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>2487</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>48.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>56.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>Direct from the Austrian Alps, this strain will produce rich, full-bodied and malty beers with a complex flavor profile and a great mouth feel. Attenuates well while still leaving plenty of malt character and body. Beers fermented with this strain will benefit from a temperature rise for a diacetyl rest at the end of primary fermentation.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Kolsch II</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>2575</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>77.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>55.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>70.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Kolsch, Altbier, Festbier, International Amber Lagers</F_Y_BEST_FOR>
+<F_Y_NOTES>This authentic K&#1255;lsch strain from one of Germany&rsquo;s leading brewing schools has a rich flavor profile which accentuates a soft malt finish. It has low or no detectable diacetyl production and will also ferment well at colder temperatures for fast lager type beers.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Munich Lager II</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>2352</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>52.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>62.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>From a famous brewery in Munich, this strain is a low diacetyl and low sulfur aroma producer. An excellent choice for malt-driven lagers.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Old Ale Blend</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>9097</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>14.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>British Strong Ale, Old Ale, English Bareleywine</F_Y_BEST_FOR>
+<F_Y_NOTES>To bring in a bit of English brewing heritage we developed the &ldquo;Old Ale&rdquo; blend. It includes an attenuative ale strain along with a small amount of Brettanomyces. The blend will ferment well in dark worts, producing fruity beers with nice complexity. The Brettanomyces adds a pie cherry-like flavor and sourness during prolonged aging.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Our Bruin Ale Blend</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>3209</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>80.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>85.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Specialty Ales and Wild Blends</F_Y_BEST_FOR>
+<F_Y_NOTES>This exclusive sour blend is built for dark, malt-accented sour styles. Like 3763 Roeselare, it will create sharp acidity, but unlike 3763 it will leave the malt character intact, creating a balanced and complex end product. Excellent base for blending fruit in secondary (especially cherries or raspberries), and makes for an interesting Saison.
+
+***Flocculation Level Varies***</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Rocky Mountain Lager</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>2105</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>9.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>48.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>56.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>American Lager, German Pils</F_Y_BEST_FOR>
+<F_Y_NOTES>A lager yeast said to be born high in the Colorado Rockies, this strain ferments well at cooler temperatures and is perfect for all North American Lagers, light pilsners, and adjunct beers. 2105-PC will create well-balanced beers with a mild malty profile, medium esters, and an emphasis on the malt finish.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Saison-Brett Blend</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>3031</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>80.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>90.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>65.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>80.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES>A blend of two saison strains and Brettanomyces creates a dry and complex ale. Classic earthy and spicy farmhouse character meets tropical and stone fruit esters. Aging brings elevated Brett flavor. Expect high attenuation with this blend.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Staro Prague Lager</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>2782</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>11.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>50.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>58.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Bohemian Lagers</F_Y_BEST_FOR>
+<F_Y_NOTES>This yeast will help create medium to full body lagers with moderate fruit and bready malt flavors. The balance is slightly toward malt sweetness and will benefit from additional hop bittering. A fantastic strain for producing classic Bohemian lagers.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Thames Valley Ale II</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>1882</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>60.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>70.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Ordinary Bitter, Best Bitter, Strong Bitter, British Brown Ale, Altbier, English Porter, American Porter, Irish Stout, Foreign Extra Stout</F_Y_BEST_FOR>
+<F_Y_NOTES>This strain was originally sourced from a now defunct brewery on the banks of the River Thames outside of Oxford, England. Thames Valley II produces crisp, dry beers with a rich malt profile and moderate stone fruit esters. This attenuative strain is also highly flocculent resulting in bright beers not requiring filtration. A thorough diacetyl rest is recommended after fermentation is complete.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>0</_PERMID_>
+<_MOD_>2020-07-06</_MOD_>
+<F_Y_NAME>Trappist Style Blend</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>3789</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2020-07-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2020-07-05</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>85.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2020-07-05</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>A unique blend of Belgian Saccharomyces and Brettanomyces for emulating Trappist-style beer from the Florenville region in Belgium. Phenolics, mild fruitiness and complex spicy notes develop with increased fermentation temperatures. Subdued but classic &quot;Brett&quot; character.</F_Y_NOTES>
+<F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
+</Yeast>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+<TxLog>0</TxLog>
+<PermCount>0</PermCount>
+<TxCount>0</TxCount>
+<TxTable>11214</TxTable>
+<TxPath></TxPath>
+</Selections>

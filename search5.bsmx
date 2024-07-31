@@ -1,0 +1,27 @@
+<Advanced-Search><_PERMID_>0</_PERMID_>
+<_MOD_>2018-06-29</_MOD_>
+<Name>Advanced Search</Name>
+<Type>8894</Type>
+<Dirty>0</Dirty>
+<Owndata>1</Owndata>
+<TID>8894</TID>
+<Size>1</Size>
+<_XName>Advanced Search</_XName>
+<Allocinc>16</Allocinc>
+<Data><search><_PERMID_>0</_PERMID_>
+<_MOD_>2018-06-29</_MOD_>
+<F_AS_SEARCH>cider</F_AS_SEARCH>
+<F_AS_INGREDIENTS>1</F_AS_INGREDIENTS>
+<F_AS_SUBFOLDERS>1</F_AS_SUBFOLDERS>
+<F_AS_MATCH>0</F_AS_MATCH>
+<F_AS_UNMATCH_COUNT>0</F_AS_UNMATCH_COUNT>
+</search>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+<TxLog>0</TxLog>
+<PermCount>0</PermCount>
+<TxCount>0</TxCount>
+<TxTable>165</TxTable>
+<TxPath></TxPath>
+</Advanced-Search>

@@ -1,0 +1,36 @@
+<Selections><_MOD_>2015-04-29</_MOD_>
+<Name>Selections</Name>
+<Type>7430</Type>
+<Dirty>0</Dirty>
+<Owndata>0</Owndata>
+<TID>100</TID>
+<Size>1</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Equipment><_MOD_>2015-04-29</_MOD_>
+<F_E_NAME>PicoBrew Zymatic</F_E_NAME>
+<F_E_MASH_VOL>640.0000000</F_E_MASH_VOL>
+<F_E_TUN_MASS>123.2000000</F_E_TUN_MASS>
+<F_E_BOIL_RATE_FLAG>1</F_E_BOIL_RATE_FLAG>
+<F_E_TUN_SPECIFIC_HEAT>0.2150000</F_E_TUN_SPECIFIC_HEAT>
+<F_E_TUN_DEADSPACE>10.2400000</F_E_TUN_DEADSPACE>
+<F_E_TUN_ADJ_DEADSPACE>1</F_E_TUN_ADJ_DEADSPACE>
+<F_E_CALC_BOIL>1</F_E_CALC_BOIL>
+<F_E_BOIL_VOL>382.3104000</F_E_BOIL_VOL>
+<F_E_BOIL_TIME>60.0000000</F_E_BOIL_TIME>
+<F_E_OLD_EVAP_RATE>10.0000000</F_E_OLD_EVAP_RATE>
+<F_EQUIP_39>1</F_EQUIP_39>
+<F_E_BOIL_OFF>12.8000000</F_E_BOIL_OFF>
+<F_E_TRUB_LOSS>6.4000000</F_E_TRUB_LOSS>
+<F_E_COOL_PCT>3.1000000</F_E_COOL_PCT>
+<F_E_TOP_UP_KETTLE>0.0000000</F_E_TOP_UP_KETTLE>
+<F_E_BATCH_VOL>352.0000000</F_E_BATCH_VOL>
+<F_E_FERMENTER_LOSS>32.0000000</F_E_FERMENTER_LOSS>
+<F_E_TOP_UP>0.0000000</F_E_TOP_UP>
+<F_E_EFFICIENCY>65.0000000</F_E_EFFICIENCY>
+<F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
+<F_E_NOTES>First attempt at Picobrew Zymatic Beersmith profile.  Adjusted Lauter Tun Deadspace after measuring ~12oz. of leftover product.  Adjusted again using Pre-Boil SG and Pos-Boil SG.  Matched Cooling Shrinkage to Boil off rate then adjusted based on observations.  Setting Brewhouse Eff to 65% based off of average of three sessions so far.</F_E_NOTES>
+</Equipment>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Selections>
